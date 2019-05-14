@@ -1,0 +1,93 @@
+.App {
+    text-align: center;
+    background-color: black;
+    min-height: 100vh;
+    color: white;
+}
+
+.App-logo {
+    height: 100%;
+    width: 100%;
+}
+
+.Panda img{
+    height: auto;
+    max-width: 100%;
+}
+
+.App-header {
+    min-height: 10vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.tableofcontents ul{
+    color: white;
+    list-style: none;
+    padding-left: 0;
+    font-size: calc(10px + 2vmin);
+}
+
+.tableofcontents a:link{
+    color: white;
+}
+
+.tableofcontents a:visited{
+    color: antiquewhite;
+}
+
+.tableofcontents a:hover{
+    color: navajowhite;
+}
+
+.tableofcontents a:active{
+    color: navajowhite;
+}
+
+.grid-container {
+    display: grid;
+    grid-row-gap: 1px;
+    grid-column-gap: 1px;
+    grid-template-columns: 0.25fr 1fr 1fr 1fr;
+    grid-template-rows: 0.25fr 1fr 1fr 1fr 0.25fr;
+    grid-template-areas: "Home Header Header Header" "TOC Content Content Content" "TOC Content Content Content" "TOC Content Content Content" "Panda Footer Footer Footer";
+}
+
+.Home {
+    grid-area: Home;
+    background-color: #2D2451;
+}
+
+.Home {
+    grid-area: Home;
+    background-color: #2D2451;
+}
+
+.Header {
+    grid-area: Header;
+    background-color: #2D2451;
+}
+
+.TOC {
+    grid-area: TOC;
+    background-color: #2D2451;
+}
+
+.Footer {
+    grid-area: Footer;
+    background-color: #2D2451;
+}
+
+.Panda {
+    grid-area: Panda;
+    background-color: #2D2451;
+}
+
+.Content {
+    grid-area: Content;
+    background-color: #2D2451;
+}
