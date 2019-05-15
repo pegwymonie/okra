@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Route } from "react-router-dom";
-import Attribute from "./ContentPages/Attribute";
-import Skill from "./ContentPages/Skill";
+import { ContentPages } from "./ContentPages/index"
 import TableOfContents from "./TableOfContents";
 
 
@@ -9,10 +8,10 @@ export default class Content extends Component {
   render() {
     return (
       <div className="content">
-        <Route path = "/" exact component={TableOfContents}/>
-        <Route path = "/Attributes/" component={Attribute}/>
-        <Route path = "/Skills/" component={Skill}/>
-        { this.props.children }
+        <Route path="/" exact component={TableOfContents} />
+        {ContentPages
+          .map(it => <Route path={`/${it.name}/`} component={it.component} />)}
+        {this.props.children}
       </div>
     )
   }

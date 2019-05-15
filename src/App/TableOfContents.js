@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from "react-router-dom";
-
+import { ContentPages } from "./ContentPages/index"
 
 export default class TableOfContents extends Component {
   render() {
@@ -12,12 +12,11 @@ export default class TableOfContents extends Component {
             <li>
               <Link to="/">Home</Link>
             </li>
-            <li>
-              <Link to="/Attributes/">Attributes</Link>
-            </li>
-            <li>
-              <Link to="/Skills/">Skills</Link>
-            </li>
+            { ContentPages.map( it =>
+                <li>
+                  <Link to={`/${it.name}/`}>{it.name}</Link>
+              </li>)
+            }
           </ul>
         </nav>
       </div>
