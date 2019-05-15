@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/okra/precache-manifest.1e828dcc692db84654c58a227027c402.js"
+  "/okra/precache-manifest.2e97fa06edb8496d7dc48f6cc660c7ef.js"
 );
 
 self.addEventListener('message', (event) => {

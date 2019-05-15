@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c86288d459f0858a5bef8d0533872c29",
+    "revision": "9abc7d00d12a171ef1361c7eddc932ab",
     "url": "/okra/index.html"
   },
   {
-    "revision": "51186668814f1a3cd33f",
+    "revision": "c0e830c7eb80726ee771",
     "url": "/okra/static/css/main.96c33caf.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/okra/static/js/2.45f9182d.chunk.js"
   },
   {
-    "revision": "51186668814f1a3cd33f",
-    "url": "/okra/static/js/main.3ce293cb.chunk.js"
+    "revision": "c0e830c7eb80726ee771",
+    "url": "/okra/static/js/main.377f5a5c.chunk.js"
   },
   {
     "revision": "30fd5382d4677ad9074f",
