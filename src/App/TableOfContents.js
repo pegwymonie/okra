@@ -13,8 +13,8 @@ export default class TableOfContents extends Component {
               <Link to="/">Home</Link>
             </li>
             { ContentPages.map( it =>
-                <li>
-                  <Link to={`/${it.name}/`}>{it.name}</Link>
+                <li key = {it.name} >
+                  <Link key = {it.name} to={`/${it.name}/`}>{it.name}</Link>
               </li>)
             }
           </ul>

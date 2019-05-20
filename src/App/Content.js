@@ -10,7 +10,8 @@ export default class Content extends Component {
       <div className="content">
         <Route path="/" exact component={TableOfContents} />
         {ContentPages
-          .map(it => <Route path={`/${it.name}/`} component={it.component} />)}
+          .map(it =>
+              <Route key = {it.name} path={`/${it.name}/`} component={it.component} />)}
         {this.props.children}
       </div>
     )

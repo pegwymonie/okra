@@ -5,7 +5,7 @@ import GT from "./img/GT.png"
 import RPND from "./img/rpnd.png"
 import Header from "./Header";
 import Content from "./Content";
-import {HashRouter as Router, Link} from "react-router-dom";
+import {BrowserRouter as Router, Link} from "react-router-dom";
 
 
 function App() {

@@ -1,4 +1,4 @@
-import  Attribute  from "./Attribute"
+import  AttributeTL  from "./AttributeTL"
 import  Skill  from "./Skill"
 
 export const ContentPages = [
@@ -8,5 +8,5 @@ export const ContentPages = [
     },
     {
         name: "Attribute",
-        component: Attribute
-    }]
+        component: AttributeTL
+    }];
