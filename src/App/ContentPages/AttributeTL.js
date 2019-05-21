@@ -9,10 +9,10 @@ export default class AttributeTL extends Component {
         return (
             <div className="attribute">
                 <Route exact path={match.path}>
-                    {Attributes.map(it =>
+                    {Attributes.getData().map(it =>
                         <Link to={`${match.url}/${it.path}`}> {it.heading} <br/></Link>)}
                 </Route>
-                <Route path={`${match.url}/:id`} component={AttributeContent} />
+                <Route path={[`${match.url}/:id`,`${match.url}//:id`]} component={AttributeContent} />
                 {this.props.children}
             </div>
         )
