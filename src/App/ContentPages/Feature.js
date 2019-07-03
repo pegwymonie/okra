@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
-import SkillDataService from "./data/SkillData";
+import FeatureDataService from "./data/FeatureData";
 
-export default class Skill extends Component{
+
+export default class Feature extends Component{
     render() {
         let match = this.props.match;
         let id = match.params.id;
-        let data = SkillDataService.getByPath(id);
+        let data = FeatureDataService.getByPath(id);
         return (
             <div>
                 <h3>{data.heading}</h3>

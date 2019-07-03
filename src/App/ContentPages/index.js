@@ -1,12 +1,17 @@
-import  AttributeTL  from "./AttributeTL"
-import  Skill  from "./Skill"
+import  Attributes  from "./Attributes"
+import  Skill  from "./Skills"
+import Features from "./Features";
 
 export const ContentPages = [
+    {
+        name: "Attributes",
+        component: Attributes
+    },
     {
         name: "Skill",
         component: Skill
     },
     {
-        name: "Attribute",
-        component: AttributeTL
+        name: "Features",
+        component: Features
     }];
