@@ -4,7 +4,7 @@ export default class DataService {
     }
 
     getRouteInformation(){
-        return this._data.map(it => ({heading: it.heading, path: it.path}))
+        return this._data.map(it => ({title: it.title, path: it.path}))
     }
 
     getByPath(path){

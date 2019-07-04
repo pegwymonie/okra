@@ -1,12 +1,14 @@
 import React, { Component } from 'react';
 import {Link, Route} from "react-router-dom";
-import Datum from "./Datum";
 
 export default class Data extends Component {
 
     withDataFrom(dataSource){
         return props => {
-            return (<Datum {...props} data={dataSource.getByPath(props.match.params.id)}/>)
+            let data = dataSource.getByPath(props.match.params.id);
+            let $comp = data.layout;
+            let content = data.content;
+            return (< $comp {...props} content={content}/>)
         }
     }
 
@@ -14,10 +16,10 @@ export default class Data extends Component {
     let match = this.props.match;
     let dataSource = this.props.dataSource;
     return (
-        <div className="skills">
+        <div className="content">
           <Route exact path={match.path}>
             {dataSource.getRouteInformation().map(it =>
-                <Link to={`${match.url}/${it.path}`}> {it.heading} <br/></Link>)}
+                <Link to={`${match.url}/${it.path}`}> {it.title} <br/></Link>)}
           </Route>
           <Route
               path={[`${match.url}/:id`,`${match.url}//:id`]}

@@ -1,14 +1,13 @@
 import React, { Component } from 'react';
 import { Route } from "react-router-dom";
 import TableOfContents from "./TableOfContents";
-import Data from "./ContentPages/Data";
 import {ContentPages} from "./ContentPages";
 
 
 export default class Content extends Component {
-  withDataSource(dataSource){
+  withDataSource(dataSource, $Comp){
     return (props) => {
-      return (<Data {...props} dataSource={dataSource}/>)
+      return (<$Comp {...props} dataSource={dataSource}/>)
     }
   }
 
@@ -18,7 +17,7 @@ export default class Content extends Component {
         <Route path="/" exact component={TableOfContents} />
         {ContentPages
           .map(it =>
-              <Route key = {it.name} path={`/${it.name}/`} render={this.withDataSource(it.dataSource)} />)}
+              <Route key = {it.name} path={`/${it.name}/`} render={this.withDataSource(it.dataSource, it.component)} />)}
         {this.props.children}
       </div>
     )
