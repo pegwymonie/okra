@@ -1,6 +1,24 @@
 import DataService from "./DataService";
+import {strength} from "./AttributeData";
+import SkillLayout from "../layouts/SkillLayout";
+
+export let Melee = {
+    title: "Melee",
+    path: "Melee",
+    layout: SkillLayout,
+    content: {
+        heading: "Melee",
+        descriptions: {
+            flavor: "Flavor",
+            mechanics: "Mechanical"
+        },
+        attributes: () => [strength],
+    }
+};
+
 
 let data = [
+    Melee,
     {
         heading: "Skill 1",
         path: "Skill_1",

@@ -1,21 +1,21 @@
 import AttributeDataService from "./data/AttributeData";
 import SkillDataService from "./data/SkillData";
 import FeatureDataService from "./data/FeatureData";
-import Data from "./Data";
 
-export const ContentPages = [
-    {
-        name: "Attributes",
-        component: Data,
-        dataSource: AttributeDataService
-    },
-    {
-        name: "Skill",
-        component: Data,
-        dataSource: SkillDataService
-    },
-    {
-        name: "Features",
-        component: Data,
-        dataSource: FeatureDataService
-    }];
+export let AttributeContent = {
+    name: "Attributes",
+    dataSource: AttributeDataService
+};
+
+export let SkillContent = {
+    name: "Skill",
+    dataSource: SkillDataService
+};
+
+
+export let FeatureContent = {
+    name: "Features",
+    dataSource: FeatureDataService
+};
+
+export const ContentPages = [AttributeContent, SkillContent, FeatureContent];

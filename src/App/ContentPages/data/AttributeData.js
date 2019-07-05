@@ -1,7 +1,9 @@
 import DataService from "./DataService";
 import AttributeLayout from "../layouts/AttributeLayout";
+import {Melee} from "./SkillData";
+import {bash} from "./ActionData";
 
-let strength = {
+export let strength = {
     title: "Strength",
     path: "Strength",
     layout: AttributeLayout,
@@ -11,11 +13,11 @@ let strength = {
             flavor: "Flavor",
             mechanics: "Mechanical"
         },
-        skills: [],
-        actions: []
+        skills: () => [Melee],
+        actions: () => [bash]
     }
 };
-let dexterity = {
+export let dexterity = {
     title: "Dexterity",
     path: "Dexterity",
     layout: AttributeLayout,
