@@ -1,39 +1,59 @@
 import DataService from "./DataService";
 import AttributeLayout from "../layouts/AttributeLayout";
 import {Melee} from "./SkillData";
-import {bash} from "./ActionData";
+import {Bash} from "./ActionData";
 
-export let strength = {
-    title: "Strength",
-    path: "Strength",
+const Agile = {
+    title: "Agile",
+
+}
+export const Body = {
+    title: "Body",
+    path: "Body",
     layout: AttributeLayout,
     content: {
-        heading: "Strength",
+        heading: "Body",
         descriptions: {
             flavor: "Flavor",
             mechanics: "Mechanical"
         },
+        states: () => ["Agile", "Balanced", "Strong"],
         skills: () => [Melee],
-        actions: () => [bash]
+        actions: () => [Bash]
     }
 };
-export let dexterity = {
-    title: "Dexterity",
-    path: "Dexterity",
+
+export const Mind = {
+    title: "Mind",
+    path: "Mind",
     layout: AttributeLayout,
     content: {
-        heading: "Dexterity",
+        heading: "Mind",
         descriptions: {
             romance: "",
             mechanics: ""
         },
-        skills: [],
-        actions: []
+        states: () => ["Intuitive", "Balanced", "Intelligent"],
+        skills: () => [],
+        actions: () => []
     }
 };
 
-let data = [ strength, dexterity];
+export const Soul = {
+    title: "Soul",
+    path: "Soul",
+    layout: AttributeLayout,
+    content: {
+        heading: "Soul",
+        descriptions: {
+            romance: "",
+            mechanics: ""
+        },
+        states: () => ["Resilient", "Balanced", "Powerful"],
+        skills: () => [],
+        actions: () => []
+    }
+};
 
 
-let AttributeDataService = new DataService(data);
-export default AttributeDataService
+export default new DataService([ Body, Mind, Soul]);

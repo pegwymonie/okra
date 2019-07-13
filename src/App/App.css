@@ -32,20 +32,13 @@
     font-size: calc(10px + 2vmin);
 }
 
-.tableofcontents a:link{
-    color: white;
-}
-
-.tableofcontents a:visited{
+.tableofcontents a{
     color: antiquewhite;
+    text-decoration: none;
 }
-
-.tableofcontents a:hover{
-    color: navajowhite;
-}
-
-.tableofcontents a:active{
-    color: navajowhite;
+.content a{
+    color: antiquewhite;
+    text-decoration: none;
 }
 
 .grid-container {
@@ -90,4 +83,8 @@
 .Content {
     grid-area: Content;
     background-color: #2D2451;
+}
+
+.Links li {
+    list-style-position: inside;
 }

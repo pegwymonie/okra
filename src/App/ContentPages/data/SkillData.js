@@ -1,5 +1,5 @@
 import DataService from "./DataService";
-import {strength} from "./AttributeData";
+import {Body} from "./AttributeData";
 import SkillLayout from "../layouts/SkillLayout";
 
 export let Melee = {
@@ -12,23 +12,13 @@ export let Melee = {
             flavor: "Flavor",
             mechanics: "Mechanical"
         },
-        attributes: () => [strength],
+        attributes: () => [Body]
     }
 };
 
 
 let data = [
-    Melee,
-    {
-        heading: "Skill 1",
-        path: "Skill_1",
-        content: "Big and Strong"
-    },
-    {
-        heading: "Skill 2",
-        path: "Skill_2",
-        content: "Quick and Precise"
-    }
+    Melee
 ];
 let SkillDataService = new DataService(data);
 export default SkillDataService;
