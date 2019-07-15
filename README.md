@@ -1,6 +1,7 @@
 Attributes:
 * Body, Mind and Soul.
-* Starts at 2, caps at 10. 1 represents a total disability. zero represent an entire lack of. (Constructs have a soul of zero)
+* Starts at 2, caps at 10. 1 represents a total disability. zero represent an entire lack. (Constructs have a soul of zero). 
+* Attacks target a specific attribute based on their source. ie and attack with a physical weapon targets body, a phycic attack targets mind, and a divine attack targets soul.
 * Each has 3 states: Rigid, Flexible, and Balanced. 
 * Attributes add their value to an action. (The action lists what attribute(s) can be used with it.)
 * Attributes with a Balanced state provide a +1 bonus on any action.
