@@ -17,20 +17,28 @@ Techniques:
 * Expansive
 * Cost a certain about of exp points
 * Represents the class features from other systems, as well as feats from other systems.
+* Can have multiple levels. 
+* Might not start at level 1.
 
 Proficiencies:
 * Very Expansive.
 * 3 Levels (Proficient, Trained, Mastered )
-* Lower Difficulty of associated actions.## Add more
-* Each Level of proficiencies applies to a small subset of an item group.
+  * Proficient reduces difficulty by one
+  * Trained allows you to split a dice.
+  * Mastered allows you to split an additional time, and reduces the diffixulty by a fuether 2
+* Each Level of proficiencies applies to a smaller subset of an item group.
   * Proficient: Long Bladed Weapons
   * Trained: Bastard Swords
-  * Master: John Black Smith's Bastard Sword (A single Item.) 
+  * Master: John Black Smith's Bastard Sword (A single Item.)
+  
+Character Power Level
+* Total of all values.
+* Add a dice value based on level.
 
 
 Advancement:
 * Advancement is done all in character using time, money, experience, influence, or some combination of the previous.
-* Stats  take a number of steps to advance equal to 5 times the next values.
+* Stats  take a number of steps to advance equal to 5 times the next value.
   * An attribute can only naturally gain one step per session. 
   * A skill can only naturally gain one step per session.
   * A Proficiencies can only naturally gain one step per scene.
