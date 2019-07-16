@@ -1,5 +1,5 @@
----
 #Stats
+---
 Attributes:
 * Body, Mind and Soul.
 * Starts at 2, caps at 10. 1 represents a total disability. zero represent an entire lack. (Constructs have a soul of zero). 
@@ -54,10 +54,11 @@ Advancement:
      * If this would cause you to advance in level, this does not happen until the end of the current rounds.  
      * This check should be make outside of the flow of the normal round, as not to disrupt the game flow. 
      * Some GM's might request all of these learning opportunities be noted and handled after rounds.
-     
----
-# Mechanics
 
+
+
+# Mechanics
+---
 Checks:
 * Targets a certain difficulty.
 * Meeting the difficulty means the action succeeds.
