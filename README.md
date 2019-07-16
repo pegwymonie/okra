@@ -1,7 +1,9 @@
+---
+#Stats
 Attributes:
 * Body, Mind and Soul.
 * Starts at 2, caps at 10. 1 represents a total disability. zero represent an entire lack. (Constructs have a soul of zero). 
-* Attacks target a specific attribute based on their source. ie and attack with a physical weapon targets body, a phycic attack targets mind, and a divine attack targets soul.
+* Attacks target a specific attribute based on their source. ie and attack with a physical weapon targets body, a psychic attack targets mind, and a divine attack targets soul.
 * Each has 3 states: Rigid, Flexible, and Balanced. 
 * Attributes add their value to an action. (The action lists what attribute(s) can be used with it.)
 * Attributes with a Balanced state provide a +1 bonus on any action.
@@ -26,7 +28,7 @@ Proficiencies:
 * 3 Levels (Proficient, Trained, Mastered )
   * Proficient reduces difficulty by one
   * Trained allows you to split a dice.
-  * Mastered allows you to split an additional time, and reduces the diffixulty by a fuether 2
+  * Mastered allows you to split an additional time, and reduces the difficulty by a further 2
 * Each Level of proficiencies applies to a smaller subset of an item group.
   * Proficient: Long Bladed Weapons
   * Trained: Bastard Swords
@@ -52,5 +54,37 @@ Advancement:
      * If this would cause you to advance in level, this does not happen until the end of the current rounds.  
      * This check should be make outside of the flow of the normal round, as not to disrupt the game flow. 
      * Some GM's might request all of these learning opportunities be noted and handled after rounds.
+     
+---
+# Mechanics
 
+Checks:
+* Targets a certain difficulty.
+* Meeting the difficulty means the action succeeds.
+* Beating the difficulty by more than 6 is a critical success.
+* Rolling the max result on more than half the dice automatically counts as a critical success, if the result would have been a normal success.
+* A Critical failure occurs when you miss the check by 6, or more than half the dice roll their minimum value, excluding dice who's maximum value is one.   
 
+Movement:
+* You must take a action to move. 
+* You get an amount of movement equal to 2 + your Body, but you may perform check against the total distance you wish to move if is in more than this amount.
+  * Failing this check makes you winded for a number of rounds equal to amount you missed the check by plus 1, Conferring a -1 to all actions. 
+  * Your movement falls short, equal to the amount you failed plus one. 
+
+Rounds:
+* 1 Action per turn.
+* Each action can have a single trivial action performed with it for no penalty.
+* 2 Actions can be combined into a single action if they do not rely on the same parts of the body, but both actions take a -2. (Moving, and Shooting.)
+  * When two actions are combined they are resolved at the same time. 
+  * Negative effects caused by failures are applied to the other check.
+  * IE, if you fail to gain extra movement with a movement action, the penalty for winded is applied to the action it was combined with. 
+  * (This can cause some pretty bad outcomes, if you say failed to move and that caused you to strain your self in another action, both negative outcomes would feed into each other )
+* You may take an additional action a turn, it confers either a -2 on all actions being taken, or a -5 on the additional action being taken.
+    * This must be declared at the start of the turn, otherwise the additional action takes a -6 and is considered a **snap** action.
+    
+Attacks:
+* Target specific attributes, acting as a check vs the targets difficulty for that attribute. 
+* The standard difficulty to hit a stat is the value of the stat plus 2.
+* Some skills may modify this difficulty.
+* A hit allows the attack effect to happen.
+* Missing the check causes the attack to miss the intended target. 
