@@ -1,4 +1,4 @@
-#Stats
+# Stats
 ---
 Attributes:
 * Body, Mind and Soul.
