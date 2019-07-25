@@ -1,3 +1,12 @@
+# Tenants
+
+* No more than 2 dice. 
+* Max dice d12. 
+* Max roll = 24
+* Max mod = 15
+* Max result = 34 normalized, 39 actual
+* Max difficulty = 34.
+
 # Stats
 ---
 Attributes:
@@ -15,6 +24,7 @@ Skills:
 * Short list
 * Has ranks. Each rank provides a die step. 
 * Rank 1-12 (d1 - d12)
+* Ranks cannot exceeded power-level + 1
 
 Techniques:
 * Expansive
@@ -85,7 +95,9 @@ Rounds:
     
 Attacks:
 * Target specific attributes, acting as a check vs the targets difficulty for that attribute. 
-* The standard difficulty to hit a stat is the value of the stat plus 2.
-* Some skills may modify this difficulty.
+* The standard difficulty to hit a stat is the double value of the stat.
 * A hit allows the attack effect to happen.
 * Missing the check causes the attack to miss the intended target. 
+
+
+# Tools
