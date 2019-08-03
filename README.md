@@ -76,7 +76,30 @@ Health:
 * Falling below half the negative maximum value causes you to lose complete control of the attribute, typically rendering you unconscious or otherwise unable to act.
 * Falling to negative your maximum value causes you to lost function of that attribute. You begin Dying. See Dying.
 
-
+Dying:
+* When a health pool reaches a certain threshold a character begins dying. 
+* Characters who remain dying for any amount of time risk permanent damage.
+* When a character starts dying they begin losing ranks in stats.
+    * The first minute a character is dying they temporarily lose ranks equal to their power level.
+    * For every minute beyond the first they permanently lose ranks equal to half their power level.
+    * This loss halts after a number of minutes equal to their power level + 1. They cannot be revived by mundane means at this point.
+    * Do not resolve these losses until a character is revived, it might be possible to mitigate certain losses. 
+    
+Losing Stats:
+* Temporary loses last until the next time your character rests, and has no missing health points in any pool.
+* Permanent loses are marked off the character sheet. 
+    * If there is a lower rank, you are considered to have completed half the required steps to advance.
+    * If there is no lower rank, you lose all steps.
+* Roll a d20 for each lost rank:
+    * 1: Highest attribute.
+    * 2: Highest skill.
+    * 3: Highest technique.
+    * 4: Highest proficiency.
+    * 5-10: Pick 6 skills/techniques, roll d6 to determine loss.
+    * 11-15: Pick 6 proficiencies, roll d6 to determine loss.
+    * 16-19: Players choice.
+    * 20: Lost any one step. 
+    
 # Mechanics
 ---
 Checks:
