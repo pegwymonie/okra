@@ -31,7 +31,7 @@ Techniques:
 * Cost a certain about of exp points
 * Represents the class features from other systems, as well as feats from other systems.
 * Can have multiple levels. 
-* Benifiets might not start at the first rank.
+* Benefits might not start at the first rank.
 
 Proficiencies:
 * Very Expansive.
@@ -65,6 +65,16 @@ Advancement:
      * This check should be make outside of the flow of the normal round, as not to disrupt the game flow. 
      * Some GM's might request all of these learning opportunities be noted and handled after rounds.
 
+
+Health:
+* Each attribute has its own health/resource pool.
+  * Three times the attribute value.
+* Falling below half the maximum value imposes a -2 on all actions using that attribute
+* Falling below zero adds a further -2 to all actions regardless of the attribute being used. 
+    * Actions can no longer spend this attribute
+    * Total of -4 for actions using the attribute
+* Falling below half the negative maximum value causes you to lose complete control of the attribute, typically rendering you unconscious or otherwise unable to act.
+* Falling to negative your maximum value causes you to lost function of that attribute. You begin Dying. See Dying.
 
 
 # Mechanics
