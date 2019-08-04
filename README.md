@@ -109,6 +109,16 @@ Checks:
 * Rolling the max result on more than half the dice automatically counts as a critical success, if the result would have been a normal success.
 * A Critical failure occurs when you miss the check by 6, or more than half the dice roll their minimum value, excluding dice who's maximum value is one.   
 
+Dice Splitting:
+* Action can have the dice used to roll them split into smaller dice. This is used to increase the average roll.
+* Each split allows you to split one dice into two smaller dice. These smaller dice must be as equal as possible.
+    * A d8 splits into 2d4.
+    * A d3 splits into a d2 and a d1.
+    * A d1 always rolls a result of one. 
+        * d1 are never counted for critical failures or successes.
+    
+
+
 Movement:
 * You must take a action to move. 
 * You get an amount of movement equal to 2 + your Body, but you may perform check against the total distance you wish to move if is in more than this amount.
