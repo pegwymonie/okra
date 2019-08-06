@@ -19,12 +19,13 @@ Attributes:
 * Attributes with a Rigid/Flexible state adds half their value as a bonus to actions that correspond. (Each action will
 note which state of an attribute it corresponds to. If none are listed, the action is considered balanced, gaining only the 
 standard +1 from a balanced state.)
+* Ranks cannot exceeded power-level + 4
 
 Skills:
 * Short list
 * Has ranks. Each rank provides a die step. 
 * Rank 1-12 (d1 - d12)
-* Ranks cannot exceeded power-level + 1
+* Ranks cannot exceeded power-level + 2
 
 Techniques:
 * Expansive
@@ -32,21 +33,31 @@ Techniques:
 * Represents the class features from other systems, as well as feats from other systems.
 * Can have multiple levels. 
 * Benefits might not start at the first rank.
+* Ranks cannot exceeded power-level + 2
+
 
 Proficiencies:
 * Very Expansive.
 * 3 Levels (Proficient, Trained, Mastered )
-  * Proficient reduces difficulty by one
-  * Trained allows you to split a dice.
-  * Mastered allows you to split an additional time, and reduces the difficulty by a further 2
+  * Proficient reduces difficulty by one.
+  * Trained reduces difficulty by two, and provides a dice split.
+  * Mastered reduces difficulty by three, and provides two dice split.
 * Each Level of proficiencies applies to a smaller subset of an item group.
   * Proficient: Long Bladed Weapons
   * Trained: Bastard Swords
-  * Master: John Black Smith's Bastard Sword (A single Item.)
+  * Master: John Black Smith's Bastard Sword (A single Item.) ()
+    * You can have a number of Proficiencies at master equal to double your power-level.
   
 Character Power Level
 * Total of all values.
-* Add a dice value based on level.
+* Add a dice value based on level to all actions. Can be split. 
+* Levels as Follows
+    * 36 ->  1 (d2)
+    * 48 ->  2 (d4)
+    * 72 ->  3 (d6)
+    * 128 -> 4 (d8)
+    * 192 -> 5 (d10)
+    * 256 -> 6 (d12)
 
 
 Advancement:
