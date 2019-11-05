@@ -1,33 +1,43 @@
 # Tenants
 
-* No more than 2 dice. 
+
+The primary purpose of role-playing games is to provide all members of a group enjoyment through role-play.
+Players must be given tools to create a character that they find enjoyable, and unconstrained by the system.
+Players must be also able to understand the rules, requiring a simple set of rules guiding the complexity many people desire. 
+Players must finally be able to execute the rules in a quick, concise, and consistent manner. 
+
+* Individuals and Interactions before Rules
+    * Player interaction with the world should not be limited to those described in the rules. 
+* Concepts over Exhaustive Rule sets 
+    * The rules are provided at a broad conceptual level, allowing re-interpretation as the situation demands. 
+* Collaboration over Control
+    * All members are on the same side, crafting a story on the fly. 
+* Responding to change over Planning Everything
+    * Shit happens. The rules don't cover everything, have fun!
+
+* No more than 3 dice. 
 * Max dice d12. 
-* Max roll = 24
-* Max mod = 15
-* Max result = 34 normalized, 39 actual
-* Max difficulty = 34.
+* Even Ranks are rolled with the appropriate dice. (2 = d2...12 = d12)
+* Odd Ranks are rolled with the highest appropriate dice, with a positive modifier equal to the missing ranks. (1 = 1...11 = d10 + 1)
 
 # Stats
 ---
 Attributes:
+* Dice
+* Ranks (1-12)
 * Body, Mind and Soul.
 * Starts at 2, caps at 12. 1 represents a total disability. zero represent an entire lack. (Constructs have a soul of zero). 
 * Attacks target a specific attribute based on their source. ie and attack with a physical weapon targets body, a psychic attack targets mind, and a divine attack targets soul.
-* Each has 3 states: Rigid, Flexible, and Balanced. 
-* Attributes add their value to an action. (The action lists what attribute(s) can be used with it.)
-* Attributes with a Balanced state provide a +1 bonus on any action.
-* Attributes with a Rigid/Flexible state adds half their value as a bonus to actions that correspond. (Each action will
-note which state of an attribute it corresponds to. If none are listed, the action is considered balanced, gaining only the 
-standard +1 from a balanced state.)
-* Ranks cannot exceeded power-level + 4
 
-Skills:
+Aptitudes:
+* Dice
+* Ranks (1-12)
 * Short list
-* Has ranks. Each rank provides a die step. 
-* Rank 1-12 (d1 - d12)
 * Ranks cannot exceeded power-level + 2
 
 Techniques:
+* No Dice
+* Ranks (1-12)
 * Expansive
 * Cost a certain about of exp points
 * Represents the class features from other systems, as well as feats from other systems.
@@ -36,21 +46,22 @@ Techniques:
 * Ranks cannot exceeded power-level + 2
 
 
-Proficiencies:
+Skills:
 * Very Expansive.
 * 3 Levels (Proficient, Trained, Mastered )
-  * Proficient reduces difficulty by one.
-  * Trained reduces difficulty by two, and provides a dice split.
-  * Mastered reduces difficulty by three, and provides two dice split.
-* Each Level of proficiencies applies to a smaller subset of an item group.
+  * Proficient reduces usage difficulty by one.
+  * Trained reduces usage difficulty by two.
+  * Mastered reduces usage difficulty by three, you win ties.
+* Each Level of Skill applies to a smaller subset of an item group.
   * Proficient: Long Bladed Weapons
   * Trained: Bastard Swords
-  * Master: John Black Smith's Bastard Sword (A single Item.) ()
+  * Master: John Black Smith's Bastard Sword (A single Item.) 
     * You can have a number of Proficiencies at master equal to double your power-level.
   
 Character Power Level
-* Total of all values.
-* Add a dice value based on level to all actions. Can be split. 
+* Dice
+    * Only Applied on actions with using a techniques and/or skill. 
+* Total of all values(Attributes, Aptitudes, Techniques, and Skills.
 * Levels as Follows
     * 36 ->  1 (d2)
     * 48 ->  2 (d4)
@@ -62,19 +73,18 @@ Character Power Level
 
 Advancement:
 * Advancement is done all in character using time, money, experience, influence, or some combination of the previous.
-* Stats take a number of steps to advance equal to 5 times the next value.
-  * An attribute can only naturally gain one step per session. 
-  * A skill can only naturally gain one step per session.
-  * A Proficiencies can only naturally gain one step per scene.
-  * A Techniques can only naturally gain one step per scene.
-* You can gain steps naturally by performing actions including the stat. 
-  * When you fail or succeed on a roll, but not critical fail or critical succeed, you may attempt to naturally gain a step in **one** stat used in the roll.  
-  * Make a check, outside of normal rounds, using the same modifiers against the current value of the stat. 
-     * If it succeeded, you gain a step in the advancement of that stat.
-     * If it failed, you gain nothing.
-     * If this would cause you to advance in level, this does not happen until the end of the current rounds.  
-     * This check should be make outside of the flow of the normal round, as not to disrupt the game flow. 
-     * Some GM's might request all of these learning opportunities be noted and handled after rounds.
+* Stats take a number of lessons to advance equal to twice the current value.
+* You can complete a lesson by performing actions including the stat. 
+  * When you fail or succeed on a roll, but not critical fail or critical succeed, you may attempt to gain a lesson in **one** stat used in the roll.
+    * Make a note of the amount you surpassed or missed by as the difference.
+    * Make a note of the attribute and, if any, aptitude used.
+    * Make a note of which ( Attribute, Aptitude, Technique, or Skill ) the lesson will be for. 
+* At the end of a session, or when ever there is downtime you may calculate a number lessons learned equal to your twice your character power level (GM's might modify this if a lot has happened. General Rule is (CPL*Scene)):
+    * Make a roll with the used attribute, using twice the difference as the difficulty. Aptitude reduces the difficulty by half its max value.
+        * A Successful role provides one lesson. 
+        * A Critical Success provides two.
+        * A Critical failure provides a sense of deep disappointment. 
+
 
 
 Health:
