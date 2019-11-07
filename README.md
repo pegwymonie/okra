@@ -11,7 +11,7 @@ Players must finally be able to execute the rules in a quick, concise, and consi
 * Concepts over Exhaustive Rule sets 
     * The rules are provided at a broad conceptual level, allowing re-interpretation as the situation demands. 
 * Collaboration over Control
-    * All members are on the same side, crafting a story on the fly. 
+    * All members are on the same side, crafting a story everyone can enjoy. 
 * Responding to change over Planning Everything
     * Shit happens. The rules don't cover everything, have fun!
 
