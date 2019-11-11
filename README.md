@@ -51,17 +51,17 @@ Skills:
 * 3 Levels (Proficient, Trained, Mastered )
   * Proficient reduces usage difficulty by one.
   * Trained reduces usage difficulty by two.
-  * Mastered reduces usage difficulty by three, you win ties.
+  * Mastered reduces usage difficulty by three, you win ties, and you may anchor one step of your CPL die.
 * Each Level of Skill applies to a smaller subset of an item group.
   * Proficient: Long Bladed Weapons
   * Trained: Bastard Swords
   * Master: John Black Smith's Bastard Sword (A single Item.) 
     * You can have a number of Proficiencies at master equal to double your power-level.
   
-Character Power Level
+Character Power Level (CPL)
 * Dice
     * Only Applied on actions with using a techniques and/or skill. 
-* Total of all values(Attributes, Aptitudes, Techniques, and Skills.
+* Total of all values(Attributes, Aptitudes, Techniques, and Skills.)
 * Levels as Follows
     * 36 ->  1 (d2)
     * 48 ->  2 (d4)
@@ -74,17 +74,29 @@ Character Power Level
 Advancement:
 * Advancement is done all in character using time, money, experience, influence, or some combination of the previous.
 * Stats take a number of lessons to advance equal to twice the current value.
+
+Natual Lessons:
 * You can complete a lesson by performing actions including the stat. 
   * When you fail or succeed on a roll, but not critical fail or critical succeed, you may attempt to gain a lesson in **one** stat used in the roll.
-    * Make a note of the amount you surpassed or missed by as the difference.
+    * Make a note of the amount you surpassed or missed by as the difficulty of the lesson.
     * Make a note of the attribute and, if any, aptitude used.
     * Make a note of which ( Attribute, Aptitude, Technique, or Skill ) the lesson will be for. 
-* At the end of a session, or when ever there is downtime you may calculate a number lessons learned equal to your twice your character power level (GM's might modify this if a lot has happened. General Rule is (CPL*Scene)):
-    * Make a roll with the used attribute, using twice the difference as the difficulty. Aptitude reduces the difficulty by half its max value.
-        * A Successful role provides one lesson. 
-        * A Critical Success provides two.
-        * A Critical failure provides a sense of deep disappointment. 
 
+Trained Lessons:
+* You receive training in a statistic, this can be resolved immediately not counting towards the number of lessons per time period. 
+    * The training will dictate:
+        * The difficulty of the lesson.
+        * What aptitude it targets.
+        * Which attribute it uses. 
+
+Resolving Lessons:
+* At the end of a session, or when ever there is more than a day of downtime you may:
+    * Resolve number lessons learned equal to your twice your character power level (GM's might modify this if a lot has happened. General Rule is (CPL*Scene)):
+        * Make a roll with the used attribute, using twice the difficulty of the lesson. Aptitude reduces the difficulty by half its max value.
+            * A Successful role provides one lesson. 
+            * A Critical Success provides two.
+            * A Critical failure provides a sense of deep disappointment.
+    * Carry forward a number of un-resolved lessons equal to 4 times your character level, any not carried forward are lost. 
 
 
 Health (Simple):
@@ -104,7 +116,7 @@ Health (Wounds):
     * If you receive a number of would greater than 3 times your character level you begin dying.  
 
 Dying (Easy):
-* Every round make a check vs the current penalty, this check is not effected by health penaltiess. (Simple: 4, Wounds: highest attribute negative)
+* Every round make a check(# TODO: Add Check) vs the current penalty, this check is not effected by health penalties. (Simple: 4, Wounds: highest attribute negative)
     * On Success you return to being unconscious.
     * If you fail this check a number of times equal to your character level, you die. 
 
@@ -117,7 +129,7 @@ Dying (Hard):
     * Do not resolve these losses until a character is revived, it might be possible to mitigate certain losses. 
     
 Losing Stats:
-* Temporary loses last until the next time your character rests, and has no missing health points in any pool.
+* Temporary loses are present until a character has rested with no health penalties. 
 * Permanent loses are marked off the character sheet. 
     * If there is a lower rank, you are considered to have completed half the required steps to advance.
     * If there is no lower rank, you lose all steps.
@@ -129,7 +141,7 @@ Losing Stats:
     * 5-10: Pick 6 skills/techniques, roll d6 to determine loss.
     * 11-15: Pick 6 proficiencies, roll d6 to determine loss.
     * 16-19: Players choice.
-    * 20: Lost any one step. 
+    * 20: Lose any one step. 
     
 # Mechanics
 ---
@@ -140,14 +152,11 @@ Checks:
 * Rolling the max result on more than half the dice automatically counts as a critical success, if the result would have been a normal success.
 * A Critical failure occurs when you miss the check by 6, or more than half the dice roll their minimum value, excluding dice who's maximum value is one.   
 
-Dice Splitting:
-* Action can have the dice used to roll them split into smaller dice. This is used to increase the average roll.
-* Each split allows you to split one dice into two smaller dice. These smaller dice must be as equal as possible.
-    * A d8 splits into 2d4.
-    * A d3 splits into a d2 and a d1.
-    * A d1 always rolls a result of one. 
-        * d1 are never counted for critical failures or successes.
-    
+Dice Anchoring:
+* Rolls can be modified by effects to have an anchored value. 
+* This reduces the size of the dice rolled by one step, and provides a +2 to the roll.
+* This anchors a portion of the dice's potential value. 
+
 
 
 Movement:
