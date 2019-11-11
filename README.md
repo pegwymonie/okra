@@ -87,18 +87,28 @@ Advancement:
 
 
 
-Health:
+Health (Simple):
 * Each attribute has its own health/resource pool.
-  * Three times the attribute value.
-* Falling below half the maximum value imposes a -2 on all actions using that attribute
-* Falling below zero adds a further -2 to all actions regardless of the attribute being used. 
+  * Three times the attribute rank.
+* If the pool is reduced to zero:
     * Actions can no longer spend this attribute
     * Total of -4 for actions using the attribute
-* Falling below half the negative maximum value causes you to lose complete control of the attribute, typically rendering you unconscious or otherwise unable to act.
-* Falling to negative your maximum value causes you to lost function of that attribute. You begin Dying. See Dying.
+* If the pool goes negative:
+    * by more that your rank in the attribute, you fall unconscious.
+    * by more than twice your rank in the attribute, you being dying (See Dying).
+    
+Health (Wounds):
+* When an attack is successful you take a wound based on the attack.
+* Wounds apply penalties.
+    * If a penalty would reduce an attribute to zero, you fall unconscious.
+    * If you receive a number of would greater than 3 times your character level you begin dying.  
 
-Dying:
-* When a health pool reaches a certain threshold a character begins dying. 
+Dying (Easy):
+* Every round make a check vs the current penalty, this check is not effected by health penaltiess. (Simple: 4, Wounds: highest attribute negative)
+    * On Success you return to being unconscious.
+    * If you fail this check a number of times equal to your character level, you die. 
+
+Dying (Hard):
 * Characters who remain dying for any amount of time risk permanent damage.
 * When a character starts dying they begin losing ranks in stats.
     * The first minute a character is dying they temporarily lose ranks equal to their power level.
