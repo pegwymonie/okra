@@ -204,14 +204,16 @@ Attacks:
 
 # Tools
 
-Tools are used to help with actions. Tools have two functions
+Tools are used to help with actions. Tools have two ways of being benificial:
+* Providing rank bonus'es
+* Reducing difficulties of actions
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJJYUFVOHFnVHVmSnBKcU9NIjp7In
 RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjk4OTYsImVuZCI6OTkw
 M319LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
 Rpc2N1c3Npb25JZCI6IklhQVU4cWdUdWZKcEpxT00iLCJzdWIi
 OiJnaDoxNjAyNjExIiwidGV4dCI6IkNvbW1lbnRzIiwiY3JlYX
-RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbNjQyNDUz
-NjQ5LC0xNzAwNzIwNTU0LC0xNjYxNTI2NzAyLC01NzI3MjI3MD
-EsLTE1ODM3MDc0MTgsLTI0NjUwNzk1MV19
+RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTE4MTI5
+NjE2NCwtMTcwMDcyMDU1NCwtMTY2MTUyNjcwMiwtNTcyNzIyNz
+AxLC0xNTgzNzA3NDE4LC0yNDY1MDc5NTFdfQ==
 -->
