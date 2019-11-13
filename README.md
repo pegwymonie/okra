@@ -22,10 +22,9 @@ Players must finally be able to execute the rules in a quick, concise, and consi
 
 # Stats
 ---
-Attributes:
+Aspects:
 * Dice
 * Ranks (1-12)
-* Body, Mind and Soul.
 * Starts at 2, caps at 12. 1 represents a total disability. zero represent an entire lack. (Constructs have a soul of zero). 
 * Attacks target a specific attribute based on their source. ie and attack with a physical weapon targets body, a psychic attack targets mind, and a divine attack targets soul.
 
@@ -100,7 +99,7 @@ Resolving Lessons:
 
 
 Health (Simple):
-* Each attribute has its own health/resource pool.
+* Each a has its own health/resource pool.
   * Three times the attribute rank.
 * If the pool is reduced to zero:
     * Actions can no longer spend this attribute
@@ -186,3 +185,12 @@ Attacks:
 # Tools
 
 **Add Content Here**
+<!--stackedit_data:
+eyJkaXNjdXNzaW9ucyI6eyJJYUFVOHFnVHVmSnBKcU9NIjp7In
+RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjkxMTAsImVuZCI6OTEx
+N319LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
+Rpc2N1c3Npb25JZCI6IklhQVU4cWdUdWZKcEpxT00iLCJzdWIi
+OiJnaDoxNjAyNjExIiwidGV4dCI6IkNvbW1lbnRzIiwiY3JlYX
+RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTgxODQ3
+NDQ0N119
+-->
