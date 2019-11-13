@@ -76,14 +76,13 @@ Advancement:
 
 Lessons:
 * lessons are how characters grow and learn
-* lessons are assigned to a specific statictic when they are resolved. 
+* lessons are assigned to a specific statictic when they are earned. 
 * Aptitudes, Skills, and Proficienies require double the next rank value of lessons resolved to advance.
-* Aspects take a number of lessons require triple the next rank value of lessons resolved to advance.
-
+* Aspects require triple the next rank value of lessons resolved to advance.
 
 Natual Lessons:
 * You can complete a lesson by performing actions including the stat. 
-  * When you fail or succeed on a roll, but not critical fail or critical succeed, you may attempt to gain a lesson in **one** stat used in the roll.
+  * When you fail or succeed on a roll, but not critical fail or critical succeed, you gain a lesson in **one** stat used in the roll.
     * Make a note of the amount you surpassed or missed by as the difficulty of the lesson.
     * Make a note of the attribute and, if any, aptitude used.
     * Make a note of which ( Attribute, Aptitude, Technique, or Skill ) the lesson will be for. 
@@ -208,11 +207,11 @@ Attacks:
 **Add Content Here**
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJJYUFVOHFnVHVmSnBKcU9NIjp7In
-RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjk5NjAsImVuZCI6OTk2
-N319LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
+RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjk5MTcsImVuZCI6OTky
+NH19LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
 Rpc2N1c3Npb25JZCI6IklhQVU4cWdUdWZKcEpxT00iLCJzdWIi
 OiJnaDoxNjAyNjExIiwidGV4dCI6IkNvbW1lbnRzIiwiY3JlYX
-RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTE2NjE1
-MjY3MDIsLTU3MjcyMjcwMSwtMTU4MzcwNzQxOCwtMjQ2NTA3OT
-UxXX0=
+RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbMTMxMzIy
+NzM0LC0xNjYxNTI2NzAyLC01NzI3MjI3MDEsLTE1ODM3MDc0MT
+gsLTI0NjUwNzk1MV19
 -->
