@@ -186,8 +186,10 @@ Movement:
 
 Rounds:
 * 1 Action per turn.
-* Each action can have a single trivial action performed with it for no penalty.
-* 2 Actions can be combined into a single action if they do not rely on the same parts of the body, but both actions take a -2. (Moving, and Shooting.)
+* 2 Actions can be combined into a single action if they do not rely on the same parts of the body.
+	* If one of the actions is trivial, there is no aditional penalty.
+	* If one action requires no check, the other action takes a -1.
+	* If both actions require checks, they both take -2.
   * When two actions are combined they are resolved at the same time. 
   * Negative effects caused by failures are applied to the other check.
   * IE, if you fail to gain extra movement with a movement action, the penalty for winded is applied to the action it was combined with. 
@@ -209,11 +211,12 @@ Tools are used to help with actions. Tools have two ways of being benificial:
 * Reducing difficulties of actions
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJJYUFVOHFnVHVmSnBKcU9NIjp7In
-RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjk4OTYsImVuZCI6OTkw
-M319LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
+RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjk5NTAsImVuZCI6OTk1
+N319LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
 Rpc2N1c3Npb25JZCI6IklhQVU4cWdUdWZKcEpxT00iLCJzdWIi
 OiJnaDoxNjAyNjExIiwidGV4dCI6IkNvbW1lbnRzIiwiY3JlYX
-RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTE4MTI5
-NjE2NCwtMTcwMDcyMDU1NCwtMTY2MTUyNjcwMiwtNTcyNzIyNz
-AxLC0xNTgzNzA3NDE4LC0yNDY1MDc5NTFdfQ==
+RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTk1Njc1
+NzAzMiwtMTgxMjk2MTY0LC0xNzAwNzIwNTU0LC0xNjYxNTI2Nz
+AyLC01NzI3MjI3MDEsLTE1ODM3MDc0MTgsLTI0NjUwNzk1MV19
+
 -->
