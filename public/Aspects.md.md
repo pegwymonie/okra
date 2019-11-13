@@ -3,19 +3,24 @@
 ## Mind
 *Add Copy*
 ```
-Describe usage of the mind ascept. Inteligence, mental fortitude.
+Describe usage of the mind ascept. Inteligence, Wisdom, Charisma.
 Arcane magic, Psychic abilities, problem solving, etc.
 ```
 ## Body
 *Add Copy*
 ```
-Describe usage of the body ascept. Strength, dexterity.
-Consitution based magics(Think blood magic, Kineticist from PF), althetics, brawling .
+Describe usage of the body ascept. Strength, Dexterity, Consitution.
+Consitution based magics(Think blood magic, Kineticist from PF), althetics, brawling.
 ```
 
-## Soul 
+## Soul
+*Add Copy*
+```
+Describe usage of the soul ascept. Wisdom, Charisma, Consitution.
+Divine based magics(Think blood magic, Kineticist from PF), althetics, brawling.
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY3Mzk2MSwtMTYwNjY1NTg0NSw3MD
+eyJoaXN0b3J5IjpbLTI3MjcyMDc5OSwtMTYwNjY1NTg0NSw3MD
 EzNzQyNzEsMTkyMzM5OTQ5NSwtMTM5NDQwNDMzMCwxMDEyMzcw
 NjQxXX0=
 -->
