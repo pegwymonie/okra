@@ -97,8 +97,9 @@ Resolving Lessons:
             * A Critical failure provides a sense of deep disappointment.
     * Carry forward a number of un-resolved lessons equal to 4 times your character level, any not carried forward are lost. 
 
-Aspect Spending (Health Simple):
-Act
+Aspect Spending:
+* Actions may require you to spend an aspect to use them.
+* This spending represents a over-excertion of the aspect, "pushing" your self.
 
 Health (Simple):
 * Each aspect has its own health/resource pool.
@@ -189,10 +190,10 @@ Attacks:
 **Add Content Here**
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJJYUFVOHFnVHVmSnBKcU9NIjp7In
-RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjkxNDYsImVuZCI6OTE1
-M319LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
+RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjkyNjQsImVuZCI6OTI3
+MX19LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
 Rpc2N1c3Npb25JZCI6IklhQVU4cWdUdWZKcEpxT00iLCJzdWIi
 OiJnaDoxNjAyNjExIiwidGV4dCI6IkNvbW1lbnRzIiwiY3JlYX
-RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTMyMjE2
-ODAzOCwtMjQ2NTA3OTUxXX0=
+RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTE1ODM3
+MDc0MTgsLTI0NjUwNzk1MV19
 -->
