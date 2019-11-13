@@ -101,6 +101,10 @@ Aspect Spending:
 * Actions may require you to spend an aspect to use them.
 * This spending represents a over-excertion of the aspect, "pushing" your self.
 
+Aspect Spending 
+
+
+
 Health (Simple):
 * Each aspect has its own health/resource pool.
   * Three times the aspect rank.
@@ -190,10 +194,10 @@ Attacks:
 **Add Content Here**
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJJYUFVOHFnVHVmSnBKcU9NIjp7In
-RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjkyNjQsImVuZCI6OTI3
+RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjkyODQsImVuZCI6OTI5
 MX19LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
 Rpc2N1c3Npb25JZCI6IklhQVU4cWdUdWZKcEpxT00iLCJzdWIi
 OiJnaDoxNjAyNjExIiwidGV4dCI6IkNvbW1lbnRzIiwiY3JlYX
-RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTE1ODM3
-MDc0MTgsLTI0NjUwNzk1MV19
+RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTIxMjQ4
+NTQ3ODIsLTE1ODM3MDc0MTgsLTI0NjUwNzk1MV19
 -->
