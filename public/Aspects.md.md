@@ -3,11 +3,12 @@
 ## Mind
 *Add Copy*
 ```
-Describe 
+Describe usage of the mind ascept. Inteligence, mental fortitude, 
 ```
 ## Body
 
 ## Soul 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQ0MDQzMzAsMTAxMjM3MDY0MV19
+eyJoaXN0b3J5IjpbMTkyMzM5OTQ5NSwtMTM5NDQwNDMzMCwxMD
+EyMzcwNjQxXX0=
 -->
