@@ -1,7 +1,7 @@
 # Aspects
 
 ## Mind
-*Add Copy*
+The aspect of Mind is the embodiment of k
 ```
 Describe usage of the mind ascept. Inteligence, Wisdom, Charisma.
 Arcane magic, Psychic abilities, problem solving, etc.
@@ -20,7 +20,7 @@ Describe usage of the soul ascept. Wisdom, Charisma, Consitution.
 Divine Magics, metaphysical skills, gut feeling. 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQ5MTc3MCwtMTYwNjY1NTg0NSw3MD
-EzNzQyNzEsMTkyMzM5OTQ5NSwtMTM5NDQwNDMzMCwxMDEyMzcw
-NjQxXX0=
+eyJoaXN0b3J5IjpbLTk5ODIwOTM2MSwtMTQ1NDkxNzcwLC0xNj
+A2NjU1ODQ1LDcwMTM3NDI3MSwxOTIzMzk5NDk1LC0xMzk0NDA0
+MzMwLDEwMTIzNzA2NDFdfQ==
 -->
