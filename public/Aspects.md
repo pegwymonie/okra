@@ -1,7 +1,7 @@
 # Aspects
 
 ## Mind
-The aspect of Mind is the embodiment of k
+The aspect of Mind is the embodiment of knowledge and experience. Knowledge could be gained from books, teachers
 ```
 Describe usage of the mind ascept. Inteligence, Wisdom, Charisma.
 Arcane magic, Psychic abilities, problem solving, etc.
@@ -20,7 +20,7 @@ Describe usage of the soul ascept. Wisdom, Charisma, Consitution.
 Divine Magics, metaphysical skills, gut feeling. 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODIwOTM2MSwtMTQ1NDkxNzcwLC0xNj
-A2NjU1ODQ1LDcwMTM3NDI3MSwxOTIzMzk5NDk1LC0xMzk0NDA0
-MzMwLDEwMTIzNzA2NDFdfQ==
+eyJoaXN0b3J5IjpbLTE5MjIwOTgzMzIsLTE0NTQ5MTc3MCwtMT
+YwNjY1NTg0NSw3MDEzNzQyNzEsMTkyMzM5OTQ5NSwtMTM5NDQw
+NDMzMCwxMDEyMzcwNjQxXX0=
 -->
