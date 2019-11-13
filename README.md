@@ -150,8 +150,8 @@ Dying (Hard):
 Losing Stats:
 * Temporary loses are present until a character has rested with no health penalties. 
 * Permanent loses are marked off the character sheet. 
-    * If there is a lower rank, you are considered to have half the experience.
-    * If there is no lower rank, you lose all steps.
+    * If there is a lower rank, you retain half the experience needed to advance.
+    * If there is no lower rank, you lose all experience.
 * Roll a d20 for each lost rank:
     * 1: Highest attribute.
     * 2: Highest skill.
@@ -207,11 +207,11 @@ Attacks:
 **Add Content Here**
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJJYUFVOHFnVHVmSnBKcU9NIjp7In
-RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjk4OTUsImVuZCI6OTkw
-Mn19LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
+RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjk5MDIsImVuZCI6OTkw
+OX19LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
 Rpc2N1c3Npb25JZCI6IklhQVU4cWdUdWZKcEpxT00iLCJzdWIi
 OiJnaDoxNjAyNjExIiwidGV4dCI6IkNvbW1lbnRzIiwiY3JlYX
-RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTUyMTY0
-OTk4MywtMTY2MTUyNjcwMiwtNTcyNzIyNzAxLC0xNTgzNzA3ND
-E4LC0yNDY1MDc5NTFdfQ==
+RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTE3MDA3
+MjA1NTQsLTE2NjE1MjY3MDIsLTU3MjcyMjcwMSwtMTU4MzcwNz
+QxOCwtMjQ2NTA3OTUxXX0=
 -->
