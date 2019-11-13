@@ -92,7 +92,7 @@ Trained Lessons:
 Resolving Lessons:
 * At the end of a session, or when ever there is more than a day of downtime you may:
     * Resolve number lessons learned equal to your twice your character power level (GM's might modify this if a lot has happened. General Rule is (CPL*Scene)):
-        * Make a roll with the used attribute, using twice the difficulty of the lesson. Aptitude reduces the difficulty by half its max value.
+        * Make a roll with the used attribute, adding half the aptitude ranks if applicable, using twice the difficulty of the lesson.
             * A Successful role provides one lesson. 
             * A Critical Success provides two.
             * A Critical failure provides a sense of deep disappointment.
