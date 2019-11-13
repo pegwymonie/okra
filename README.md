@@ -106,8 +106,12 @@ Aspect Spending (Health Simple):
 * This does not tigger any effects that occur when taking damage.
 
 Aspect Spending (Wounds):
-* You recieve a wound 
-* This does not tigger any effects that occur when taking damage.
+* You recieve the below wound:
+	* Exhaustion( *Aspect*)
+		* Effect: -1 *aspect* rank
+		* Cure: Short Rest 
+		* Cure:
+* This does not tigger any effects that occur when taking wounds.
 
 Health (Simple):
 * Each aspect has its own health/resource pool.
@@ -198,10 +202,10 @@ Attacks:
 **Add Content Here**
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJJYUFVOHFnVHVmSnBKcU9NIjp7In
-RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjk1NDMsImVuZCI6OTU1
-MH19LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
+RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjk2MzcsImVuZCI6OTY0
+NH19LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
 Rpc2N1c3Npb25JZCI6IklhQVU4cWdUdWZKcEpxT00iLCJzdWIi
 OiJnaDoxNjAyNjExIiwidGV4dCI6IkNvbW1lbnRzIiwiY3JlYX
-RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbNDI0NTA2
-OTAwLC0xNTgzNzA3NDE4LC0yNDY1MDc5NTFdfQ==
+RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTIwMjEz
+Njk4OTgsLTE1ODM3MDc0MTgsLTI0NjUwNzk1MV19
 -->
