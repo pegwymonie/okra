@@ -10,11 +10,12 @@ Arcane magic, Psychic abilities, problem solving, etc.
 *Add Copy*
 ```
 Describe usage of the body ascept. Strength, dexterity.
-Consitution based magics(Think blood magic, Kineticist from PF), althetics,  .
+Consitution based magics(Think blood magic, Kineticist from PF), althetics, brawling .
 ```
 
 ## Soul 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY2NTU4NDUsNzAxMzc0MjcxLDE5Mj
-MzOTk0OTUsLTEzOTQ0MDQzMzAsMTAxMjM3MDY0MV19
+eyJoaXN0b3J5IjpbLTEwMTY3Mzk2MSwtMTYwNjY1NTg0NSw3MD
+EzNzQyNzEsMTkyMzM5OTQ5NSwtMTM5NDQwNDMzMCwxMDEyMzcw
+NjQxXX0=
 -->
