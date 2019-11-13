@@ -77,8 +77,8 @@ Advancement:
 Lessons:
 * lessons are how characters grow and learn
 * lessons are assigned to a specific statictic when they are earned. 
-* Aptitudes, Skills, and Proficienies require double the next rank value of lessons resolved to advance.
-* Aspects require triple the next rank value of lessons resolved to advance.
+* Aptitudes, Skills, and Proficienies require double the next rank value of experience to advance.
+* Aspects require triple the next rank value of experience to advance.
 
 Natual Lessons:
 * You can complete a lesson by performing actions including the stat. 
@@ -98,8 +98,8 @@ Resolving Lessons:
 * At the end of a session, or when ever there is more than a day of downtime you may:
     * Resolve number lessons learned equal to your twice your character power level (GM's might modify this if a lot has happened. General Rule is (CPL*Scene)):
         * Make a roll with the used attribute, adding half the aptitude ranks if applicable, using twice the difficulty of the lesson.
-            * A Successful role provides one lesson. 
-            * A Critical Success provides two.
+            * A Successful role provides one experience. 
+            * A Critical Success provides two experience.
             * A Critical failure provides a sense of deep disappointment.
     * Carry forward a number of un-resolved lessons equal to 4 times your character level, any not carried forward are lost. 
 
@@ -150,7 +150,7 @@ Dying (Hard):
 Losing Stats:
 * Temporary loses are present until a character has rested with no health penalties. 
 * Permanent loses are marked off the character sheet. 
-    * If there is a lower rank, you are considered to have completed half the required steps to advance.
+    * If there is a lower rank, you are considered to have half the experience.
     * If there is no lower rank, you lose all steps.
 * Roll a d20 for each lost rank:
     * 1: Highest attribute.
@@ -207,11 +207,11 @@ Attacks:
 **Add Content Here**
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJJYUFVOHFnVHVmSnBKcU9NIjp7In
-RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjk5MTcsImVuZCI6OTky
-NH19LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
+RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjk4OTUsImVuZCI6OTkw
+Mn19LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
 Rpc2N1c3Npb25JZCI6IklhQVU4cWdUdWZKcEpxT00iLCJzdWIi
 OiJnaDoxNjAyNjExIiwidGV4dCI6IkNvbW1lbnRzIiwiY3JlYX
-RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbMTMxMzIy
-NzM0LC0xNjYxNTI2NzAyLC01NzI3MjI3MDEsLTE1ODM3MDc0MT
-gsLTI0NjUwNzk1MV19
+RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTUyMTY0
+OTk4MywtMTY2MTUyNjcwMiwtNTcyNzIyNzAxLC0xNTgzNzA3ND
+E4LC0yNDY1MDc5NTFdfQ==
 -->
