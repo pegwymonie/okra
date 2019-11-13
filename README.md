@@ -99,7 +99,7 @@ Resolving Lessons:
 
 
 Health (Simple):
-* Each a has its own health/resource pool.
+* Each aspect has its own health/resource pool.
   * Three times the attribute rank.
 * If the pool is reduced to zero:
     * Actions can no longer spend this attribute
@@ -187,10 +187,10 @@ Attacks:
 **Add Content Here**
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJJYUFVOHFnVHVmSnBKcU9NIjp7In
-RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjkxMTAsImVuZCI6OTEx
-N319LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
+RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjkxMTUsImVuZCI6OTEy
+Mn19LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
 Rpc2N1c3Npb25JZCI6IklhQVU4cWdUdWZKcEpxT00iLCJzdWIi
 OiJnaDoxNjAyNjExIiwidGV4dCI6IkNvbW1lbnRzIiwiY3JlYX
-RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTgxODQ3
-NDQ0N119
+RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTI0NjUw
+Nzk1MV19
 -->
