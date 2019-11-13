@@ -109,8 +109,7 @@ Aspect Spending (Wounds):
 * You recieve the below wound:
 	* Exhaustion( *Aspect*)
 		* Effect: -1 *aspect* rank
-		* Cure: Short Rest 
-		* Cure:
+		* Cure: Short Rest
 * This does not tigger any effects that occur when taking wounds.
 
 Health (Simple):
@@ -202,10 +201,10 @@ Attacks:
 **Add Content Here**
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJJYUFVOHFnVHVmSnBKcU9NIjp7In
-RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjk2MzcsImVuZCI6OTY0
-NH19LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
+RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjk2MjYsImVuZCI6OTYz
+M319LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
 Rpc2N1c3Npb25JZCI6IklhQVU4cWdUdWZKcEpxT00iLCJzdWIi
 OiJnaDoxNjAyNjExIiwidGV4dCI6IkNvbW1lbnRzIiwiY3JlYX
-RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTIwMjEz
-Njk4OTgsLTE1ODM3MDc0MTgsLTI0NjUwNzk1MV19
+RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTU3Mjcy
+MjcwMSwtMTU4MzcwNzQxOCwtMjQ2NTA3OTUxXX0=
 -->
