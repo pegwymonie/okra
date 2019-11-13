@@ -185,15 +185,15 @@ Movement:
   * Your movement falls short, equal to the amount you failed plus one. 
 
 Rounds:
-* 1 Action per turn.
+* 1 Action per turn with out penalty.
 * 2 Actions can be combined into a single action if they do not rely on the same parts of the body.
 	* If one of the actions is trivial, there is no aditional penalty.
 	* If one action requires no check, the other action takes a -1.
 	* If both actions require checks, they both take -2.
   * When two actions are combined they are resolved at the same time. 
-  * Negative effects caused by failures are applied to the other check.
-  * IE, if you fail to gain extra movement with a movement action, the penalty for winded is applied to the action it was combined with. 
-  * (This can cause some pretty bad outcomes, if you say failed to move and that caused you to strain your self in another action, both negative outcomes would feed into each other )
+	  * Negative effects caused by failures are applied to the other check, if there is a conflict the worst effect occurs first.
+	  * IE, if you fail to gain extra movement with a movement action, the penalty for winded is applied to the action it was combined with. 
+	  * (This can cause some pretty bad outcomes, if you say failed to move and that caused you to strain your self in another action, both negative outcomes would feed into each other )
 * You may take an additional action a turn, it confers either a -2 on all actions being taken, or a -5 on the additional action being taken.
     * This must be declared at the start of the turn, otherwise the additional action takes a -6 and is considered a **snap** action.
     
@@ -211,12 +211,12 @@ Tools are used to help with actions. Tools have two ways of being benificial:
 * Reducing difficulties of actions
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJJYUFVOHFnVHVmSnBKcU9NIjp7In
-RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjk5NTAsImVuZCI6OTk1
-N319LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
-Rpc2N1c3Npb25JZCI6IklhQVU4cWdUdWZKcEpxT00iLCJzdWIi
-OiJnaDoxNjAyNjExIiwidGV4dCI6IkNvbW1lbnRzIiwiY3JlYX
-RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTk1Njc1
-NzAzMiwtMTgxMjk2MTY0LC0xNzAwNzIwNTU0LC0xNjYxNTI2Nz
-AyLC01NzI3MjI3MDEsLTE1ODM3MDc0MTgsLTI0NjUwNzk1MV19
-
+RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjEwMDI0LCJlbmQiOjEw
+MDMxfX0sImNvbW1lbnRzIjp7IjVNaWY4UGRaTVp4QjNhWjEiOn
+siZGlzY3Vzc2lvbklkIjoiSWFBVThxZ1R1ZkpwSnFPTSIsInN1
+YiI6ImdoOjE2MDI2MTEiLCJ0ZXh0IjoiQ29tbWVudHMiLCJjcm
+VhdGVkIjoxNTczNjU0OTkxNTA4fX0sImhpc3RvcnkiOls0MTM4
+MzM4MTgsLTE4MTI5NjE2NCwtMTcwMDcyMDU1NCwtMTY2MTUyNj
+cwMiwtNTcyNzIyNzAxLC0xNTgzNzA3NDE4LC0yNDY1MDc5NTFd
+fQ==
 -->
