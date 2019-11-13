@@ -72,6 +72,7 @@ Character Power Level (CPL)
 
 Advancement:
 * Advancement is done all in character using time, money, experience, influence, or some combination of the previous.
+* Aspects take
 * Stats take a number of lessons to advance equal to twice the current value.
 
 Natual Lessons:
@@ -201,10 +202,11 @@ Attacks:
 **Add Content Here**
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJJYUFVOHFnVHVmSnBKcU9NIjp7In
-RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjk2MjYsImVuZCI6OTYz
-M319LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
+RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjk2NDEsImVuZCI6OTY0
+OH19LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
 Rpc2N1c3Npb25JZCI6IklhQVU4cWdUdWZKcEpxT00iLCJzdWIi
 OiJnaDoxNjAyNjExIiwidGV4dCI6IkNvbW1lbnRzIiwiY3JlYX
-RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTU3Mjcy
-MjcwMSwtMTU4MzcwNzQxOCwtMjQ2NTA3OTUxXX0=
+RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTc2NjIx
+NTQzNiwtNTcyNzIyNzAxLC0xNTgzNzA3NDE4LC0yNDY1MDc5NT
+FdfQ==
 -->
