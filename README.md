@@ -97,12 +97,14 @@ Resolving Lessons:
             * A Critical failure provides a sense of deep disappointment.
     * Carry forward a number of un-resolved lessons equal to 4 times your character level, any not carried forward are lost. 
 
+Aspect Spending (Health Simple):
+Act
 
 Health (Simple):
 * Each aspect has its own health/resource pool.
-  * Three times the attribute rank.
+  * Three times the aspect rank.
 * If the pool is reduced to zero:
-    * Actions can no longer spend this attribute
+    * Actions can no longer spend this aspect
     * Total of -4 for actions using the attribute
 * If the pool goes negative:
     * by more that your rank in the attribute, you fall unconscious.
@@ -187,10 +189,10 @@ Attacks:
 **Add Content Here**
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJJYUFVOHFnVHVmSnBKcU9NIjp7In
-RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjkxMTUsImVuZCI6OTEy
-Mn19LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
+RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjkxNDYsImVuZCI6OTE1
+M319LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
 Rpc2N1c3Npb25JZCI6IklhQVU4cWdUdWZKcEpxT00iLCJzdWIi
 OiJnaDoxNjAyNjExIiwidGV4dCI6IkNvbW1lbnRzIiwiY3JlYX
-RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTI0NjUw
-Nzk1MV19
+RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTMyMjE2
+ODAzOCwtMjQ2NTA3OTUxXX0=
 -->
