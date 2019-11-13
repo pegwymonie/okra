@@ -77,7 +77,8 @@ Advancement:
 Lessons:
 * lessons are how characters grow and learn
 * lessons are assigned to a specific statictic when they are resolved. 
-* Aptitudes, Skills, and Proficienies take a number of lessons to adanve equal to twice the new 
+* Aptitudes, Skills, and Proficienies require double the next rank value of lessons resolved to advance.
+* Aspects take a number of lessons require triple the next rank value of lessons resolved to advance.
 
 
 Natual Lessons:
@@ -207,11 +208,11 @@ Attacks:
 **Add Content Here**
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJJYUFVOHFnVHVmSnBKcU9NIjp7In
-RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjk4NTAsImVuZCI6OTg1
+RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjk5NjAsImVuZCI6OTk2
 N319LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
 Rpc2N1c3Npb25JZCI6IklhQVU4cWdUdWZKcEpxT00iLCJzdWIi
 OiJnaDoxNjAyNjExIiwidGV4dCI6IkNvbW1lbnRzIiwiY3JlYX
-RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbMzY4OTcw
-ODM0LC01NzI3MjI3MDEsLTE1ODM3MDc0MTgsLTI0NjUwNzk1MV
-19
+RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTE2NjE1
+MjY3MDIsLTU3MjcyMjcwMSwtMTU4MzcwNzQxOCwtMjQ2NTA3OT
+UxXX0=
 -->
