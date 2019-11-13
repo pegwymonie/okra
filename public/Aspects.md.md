@@ -17,10 +17,10 @@ Consitution based magics(Think blood magic, Kineticist from PF), althetics, braw
 *Add Copy*
 ```
 Describe usage of the soul ascept. Wisdom, Charisma, Consitution.
-Divine based magics(Think blood magic, Kineticist from PF), althetics, brawling.
+Divine Magics, metaphysical skills, gut feeling. 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjcyMDc5OSwtMTYwNjY1NTg0NSw3MD
+eyJoaXN0b3J5IjpbLTE0NTQ5MTc3MCwtMTYwNjY1NTg0NSw3MD
 EzNzQyNzEsMTkyMzM5OTQ5NSwtMTM5NDQwNDMzMCwxMDEyMzcw
 NjQxXX0=
 -->
