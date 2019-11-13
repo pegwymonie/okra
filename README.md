@@ -81,7 +81,7 @@ Lessons:
 * Aspects require triple the next rank value of experience to advance.
 
 Natual Lessons:
-* You can complete a lesson by performing actions including the stat. 
+* You can earn lesson by performing actions including the stat. 
   * When you fail or succeed on a roll, but not critical fail or critical succeed, you gain a lesson in **one** stat used in the roll.
     * Make a note of the amount you surpassed or missed by as the difficulty of the lesson.
     * Make a note of the attribute and, if any, aptitude used.
@@ -204,14 +204,14 @@ Attacks:
 
 # Tools
 
-**Add Content Here**
+Tools are used to help with actions. Tools have two functions
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJJYUFVOHFnVHVmSnBKcU9NIjp7In
-RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjk5MDIsImVuZCI6OTkw
-OX19LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
+RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjk4OTYsImVuZCI6OTkw
+M319LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
 Rpc2N1c3Npb25JZCI6IklhQVU4cWdUdWZKcEpxT00iLCJzdWIi
 OiJnaDoxNjAyNjExIiwidGV4dCI6IkNvbW1lbnRzIiwiY3JlYX
-RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTE3MDA3
-MjA1NTQsLTE2NjE1MjY3MDIsLTU3MjcyMjcwMSwtMTU4MzcwNz
-QxOCwtMjQ2NTA3OTUxXX0=
+RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbNjQyNDUz
+NjQ5LC0xNzAwNzIwNTU0LC0xNjYxNTI2NzAyLC01NzI3MjI3MD
+EsLTE1ODM3MDc0MTgsLTI0NjUwNzk1MV19
 -->
