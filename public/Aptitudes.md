@@ -48,7 +48,9 @@ Sense Motive
 perform, bluff, diplomancy
 ```
 # Fortitude
+```
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NzQ5NTE1NywtMTg4Mzc3MTIxMSwxMD
+eyJoaXN0b3J5IjpbLTIxMzA1NDk4NywtMTg4Mzc3MTIxMSwxMD
 YxMTQ3NzA1LDE3MDAyNTcwOTcsLTgxOTEyODU2OF19
 -->
