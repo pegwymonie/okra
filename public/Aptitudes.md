@@ -44,7 +44,10 @@ Knowledge focuses on the facts and figures you've crammed in your head. Knowledg
 
 Examples of the kinds of Knowledge you could have are:
 * medicine
-* 
+* science (general)
+* languages
+* mechanical engineering (theory)
+	
 	PF: Knowledge(*), Linguistics
 	C/SRPG: Knowledge, Mechanical Enginerring, Medical Expertise, Scientific Expertise
 	
@@ -79,8 +82,8 @@ perform, bluff, diplomancy
 # Fortitude
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzkwNDc3MSwtOTUyNDk1MDU0LC0xOD
-k5NDc2MDc3LDIxMzA5ODgzMDksLTIxMzA1NDk4NywtMTg4Mzc3
-MTIxMSwxMDYxMTQ3NzA1LDE3MDAyNTcwOTcsLTgxOTEyODU2OF
-19
+eyJoaXN0b3J5IjpbNzc5NzQzMDYzLC05NTI0OTUwNTQsLTE4OT
+k0NzYwNzcsMjEzMDk4ODMwOSwtMjEzMDU0OTg3LC0xODgzNzcx
+MjExLDEwNjExNDc3MDUsMTcwMDI1NzA5NywtODE5MTI4NTY4XX
+0=
 -->
