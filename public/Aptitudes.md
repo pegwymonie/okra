@@ -70,6 +70,7 @@ Wit demonstrates your ability to think and act quickly, to know the right thing 
 	C/SRPG: None.
 
 # Perception
+Perception is the ability to sense the world around in greater detail than normal. You
 
 Perception, Sense Motive
 
@@ -96,9 +97,9 @@ perform, bluff, diplomancy
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJqUXFPS0JOZmZKdkpWS1ZkIjp7In
-N0YXJ0Ijo0MzQsImVuZCI6NDQ1LCJ0ZXh0Ijoid2VhcG9uY3Jh
-ZnQifSwiVnV2bzdNOUJneGF5N3RqMiI6eyJzdGFydCI6OTEyLC
-JlbmQiOjkyOSwidGV4dCI6IkV4YW1wbGVzIGluY2x1ZGU6In19
+RleHQiOiJ3ZWFwb25jcmFmdCIsInN0YXJ0Ijo0MzQsImVuZCI6
+NDQ1fSwiVnV2bzdNOUJneGF5N3RqMiI6eyJ0ZXh0IjoiRXhhbX
+BsZXMgaW5jbHVkZToiLCJzdGFydCI6OTEyLCJlbmQiOjkyOX19
 LCJjb21tZW50cyI6eyI2aU03UUhEQmpNbDBtOG1QIjp7ImRpc2
 N1c3Npb25JZCI6ImpRcU9LQk5mZkp2SlZLVmQiLCJzdWIiOiJn
 aDoxNjAyNjExIiwidGV4dCI6IlRoaXMgaXMgc3VwcG9zZWQgdG
@@ -113,8 +114,9 @@ NjI2fSwieWdaVzZ3MTc0U3doTEMweCI6eyJkaXNjdXNzaW9uSW
 QiOiJWdXZvN005Qmd4YXk3dGoyIiwic3ViIjoiZ2g6MTYwMjYx
 MSIsInRleHQiOiJNYWtlIHN1cmUgdG8gaW5jbHVkZSBicmF3bG
 luZyBoZXJlLiIsImNyZWF0ZWQiOjE1NzM3NTY1MTkwMDd9fSwi
-aGlzdG9yeSI6WzMyMTQ0ODYxMiwyMDM5OTYyMjg5LC05NzYwMD
-I0MTUsLTEzMjU4MDYyNTIsLTk1MjQ5NTA1NCwtMTg5OTQ3NjA3
-NywyMTMwOTg4MzA5LC0yMTMwNTQ5ODcsLTE4ODM3NzEyMTEsMT
-A2MTE0NzcwNSwxNzAwMjU3MDk3LC04MTkxMjg1NjhdfQ==
+aGlzdG9yeSI6WzE4MjMwNTA3NTAsMzIxNDQ4NjEyLDIwMzk5Nj
+IyODksLTk3NjAwMjQxNSwtMTMyNTgwNjI1MiwtOTUyNDk1MDU0
+LC0xODk5NDc2MDc3LDIxMzA5ODgzMDksLTIxMzA1NDk4NywtMT
+g4Mzc3MTIxMSwxMDYxMTQ3NzA1LDE3MDAyNTcwOTcsLTgxOTEy
+ODU2OF19
 -->
