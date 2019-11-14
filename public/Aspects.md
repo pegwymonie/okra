@@ -11,7 +11,7 @@ Those strong of Mind are more often drawn towards logic or emotion rather than b
 * a skilled diplomat armed with knowledge of the person they are about to enter negotiations with
 ```
 ## Body
-
+*Add Copy*
 ```
 Describe usage of the body ascept. Strength, Dexterity, Consitution.
 Consitution based magics(Think blood magic, Kineticist from PF), althetics, brawling.
@@ -24,7 +24,7 @@ Describe usage of the soul ascept. Wisdom, Charisma, Consitution.
 Divine Magics, metaphysical skills, gut feeling. 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3NDczODMzLC0xMjU0NzE0NDAsLTE0NT
-Q5MTc3MCwtMTYwNjY1NTg0NSw3MDEzNzQyNzEsMTkyMzM5OTQ5
-NSwtMTM5NDQwNDMzMCwxMDEyMzcwNjQxXX0=
+eyJoaXN0b3J5IjpbLTE3NDQxNzAwNTEsLTEyNTQ3MTQ0MCwtMT
+Q1NDkxNzcwLC0xNjA2NjU1ODQ1LDcwMTM3NDI3MSwxOTIzMzk5
+NDk1LC0xMzk0NDA0MzMwLDEwMTIzNzA2NDFdfQ==
 -->
