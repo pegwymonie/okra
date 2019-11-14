@@ -63,7 +63,7 @@ Examples of the kinds of Knowledge you could have are:
 	C/SRPG: Knowledge, Mechanical Enginerring, Medical Expertise, Scientific Expertise
 	
 # Wit
-Wit demonstrates your ability to think and act quickly, to know the right thing to say or do, to innovate and come u
+Wit demonstrates your ability to think and act quickly, to know the right thing to say or do, to innovate and come up with creative solutions. 
 
 *This one is lite on examples*
 	PF: Int, Diplomancy(Gather Info), survival, stealth
@@ -95,7 +95,7 @@ perform, bluff, diplomancy
 # Fortitude
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDI0ODY2NCwtOTc2MDAyNDE1LC0xMz
+eyJoaXN0b3J5IjpbMjAzOTk2MjI4OSwtOTc2MDAyNDE1LC0xMz
 I1ODA2MjUyLC05NTI0OTUwNTQsLTE4OTk0NzYwNzcsMjEzMDk4
 ODMwOSwtMjEzMDU0OTg3LC0xODgzNzcxMjExLDEwNjExNDc3MD
 UsMTcwMDI1NzA5NywtODE5MTI4NTY4XX0=
