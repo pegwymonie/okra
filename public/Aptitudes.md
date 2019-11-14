@@ -43,11 +43,15 @@ Examples include:
 Knowledge focuses on the facts and figures you've crammed in your head. Knowledge is often gained by studying for hours or days or years. Some knowledge can be picked up quickly while others take much longer.
 
 Examples of the kinds of Knowledge you could have are:
-* medicine
-* science (general)
+* medicine (theory)
+* science (general/theory)
 * languages
 * mechanical engineering (theory)
-	
+* plants (general)
+* animals 
+* 
+
+
 	PF: Knowledge(*), Linguistics
 	C/SRPG: Knowledge, Mechanical Enginerring, Medical Expertise, Scientific Expertise
 	
@@ -82,8 +86,8 @@ perform, bluff, diplomancy
 # Fortitude
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5NzQzMDYzLC05NTI0OTUwNTQsLTE4OT
-k0NzYwNzcsMjEzMDk4ODMwOSwtMjEzMDU0OTg3LC0xODgzNzcx
-MjExLDEwNjExNDc3MDUsMTcwMDI1NzA5NywtODE5MTI4NTY4XX
-0=
+eyJoaXN0b3J5IjpbLTExNjg1ODc1ODksLTk1MjQ5NTA1NCwtMT
+g5OTQ3NjA3NywyMTMwOTg4MzA5LC0yMTMwNTQ5ODcsLTE4ODM3
+NzEyMTEsMTA2MTE0NzcwNSwxNzAwMjU3MDk3LC04MTkxMjg1Nj
+hdfQ==
 -->
