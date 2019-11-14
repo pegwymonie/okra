@@ -40,18 +40,18 @@ Examples include:
 	C/SRPG: Athletics
 
 # Knowledge
-```Knowledge focuses on the facts and figures you've crammed in your head. Knowledge is often gained by studying for hours on days on years. Some knowledge can be picked up quickly while others take much longer.
+Knowledge focuses on the facts and figures you've crammed in your head. Knowledge is often gained by studying for hours on days on years. Some knowledge can be picked up quickly while others take much longer.
 
-Examples of 
+Examples of Knowledge you could have are:
+* 
 	PF: Knowledge(*), Linguistics
 	C/SRPG: Knowledge, Mechanical Enginerring, Medical Expertise, Scientific Expertise
-```
+	
 # Wit
 *This one is lite on examples*
-```
 	PF: Int, Diplomancy(Gather Info), survival, stealth
 	C/SRPG: None.
-```
+
 # Perception
 ```
 Perception, Sense Motive
@@ -79,7 +79,7 @@ perform, bluff, diplomancy
 ```
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjI1MDQ5NzIsLTk1MjQ5NTA1NCwtMT
+eyJoaXN0b3J5IjpbLTE4MTA0MjY2MTYsLTk1MjQ5NTA1NCwtMT
 g5OTQ3NjA3NywyMTMwOTg4MzA5LC0yMTMwNTQ5ODcsLTE4ODM3
 NzEyMTEsMTA2MTE0NzcwNSwxNzAwMjU3MDk3LC04MTkxMjg1Nj
 hdfQ==
