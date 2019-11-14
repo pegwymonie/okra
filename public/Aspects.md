@@ -1,7 +1,7 @@
 # Aspects
 
 ## Mind
-The aspect of Mind is the embodiment of knowledge and understanding. Knowledge could be gained from any number of sources, from books to teachers to secrets whispered by the universe. Understanding, on the other hand, usually involves personal action and practical application of knowledge. However, one cannot exist without the other, as knowledge can be gained while journeying toward an understanding and life can be experienced through the pursuit of knowledge.
+The aspect of Mind is the embodiment of knowledge and understanding. Knowledge could be gained from any number of sources, from books to teachers to secrets whispered by the universe. Understanding, on the other hand, usually involves personal action and practical application of knowledge. However, one cannot exist without the other, as knowledge can be gained while journeying toward understanding and understanding can be acquired through the pursuit of knowledge.
 
 Those strong of Mind are more often drawn towards logic or emotion rather than brute strength. A person with a high Mind aspect might be:
 * powerful arcane sorcerers, able to control any number of natural or unnatural phenomenon
@@ -27,7 +27,7 @@ Describe usage of the soul ascept. Wisdom, Charisma, Consitution.
 Divine Magics, metaphysical skills, gut feeling. 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDM0NzgxODMsLTEyNTQ3MTQ0MCwtMT
-Q1NDkxNzcwLC0xNjA2NjU1ODQ1LDcwMTM3NDI3MSwxOTIzMzk5
-NDk1LC0xMzk0NDA0MzMwLDEwMTIzNzA2NDFdfQ==
+eyJoaXN0b3J5IjpbMTExMDMxMTkyMiwtMTI1NDcxNDQwLC0xND
+U0OTE3NzAsLTE2MDY2NTU4NDUsNzAxMzc0MjcxLDE5MjMzOTk0
+OTUsLTEzOTQ0MDQzMzAsMTAxMjM3MDY0MV19
 -->
