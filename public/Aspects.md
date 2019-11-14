@@ -31,10 +31,10 @@ The aspect of Soul is a measure of inner strength and attunement to the universe
 
 Wisdom, Charisma, Constitution.
 Divine Magics, metaphysical skills, gut feeling. 
-```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0MjE3OTQ1LDEwNzg1MDQ2MTQsLTY2OT
-Q3ODA4MSwtMTI4MTE2MDM5NywtMTI1NDcxNDQwLC0xNDU0OTE3
-NzAsLTE2MDY2NTU4NDUsNzAxMzc0MjcxLDE5MjMzOTk0OTUsLT
-EzOTQ0MDQzMzAsMTAxMjM3MDY0MV19
+eyJoaXN0b3J5IjpbNTMyNTA3NDcsNDk0MjE3OTQ1LDEwNzg1MD
+Q2MTQsLTY2OTQ3ODA4MSwtMTI4MTE2MDM5NywtMTI1NDcxNDQw
+LC0xNDU0OTE3NzAsLTE2MDY2NTU4NDUsNzAxMzc0MjcxLDE5Mj
+MzOTk0OTUsLTEzOTQ0MDQzMzAsMTAxMjM3MDY0MV19
 -->
