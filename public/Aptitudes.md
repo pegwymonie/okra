@@ -10,9 +10,11 @@ Want 10
 # Perception
 # Creation
 # Subterfuge
-
+# Empathy
+# 
+#
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTg4Mzg0OSwxNzAwMjU3MDk3LC04MT
+eyJoaXN0b3J5IjpbMTI3Njg1MTY4NCwxNzAwMjU3MDk3LC04MT
 kxMjg1NjhdfQ==
 -->
