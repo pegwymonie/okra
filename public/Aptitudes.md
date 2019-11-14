@@ -5,7 +5,7 @@ Want 10
 
 # Weapons
 ```
-	PF: Craft(Weapons*), Knowlegde(Dungenering)
+	PF: Craft(Weapons*), Knowlegde(Dungenering), Base Attack Bonus
 	C/SPRG: Guns, Heavy Weapons, Melee Weapons, Unarmed Weapons
 ```
 # Althletics
@@ -16,9 +16,14 @@ Want 10
 # Knowledge
 ```
 	PF: Knowledge(*)
-	C/SRPG: Knowledge, Mechanical Enginerring, Medical Expertise, Scienti
+	C/SRPG: Knowledge, Mechanical Enginerring, Medical Expertise, Scientific Expertise
 ```
 # Wit
+*This one is lite on examples*
+```
+	PF: Int, Diplomancy(Gather Info)
+	C/SRPG: None.
+```
 # Perception
 # Creation
 # Subterfuge
@@ -56,6 +61,6 @@ Want 10
 -   [Taking 10 and Taking 20](https://app.roll20.net/compendium/pathfinder/Skills:Taking%2010%20and%20Taking%2020)
 -   [Use Magic Device](https://app.roll20.net/compendium/pathfinder/Skills:Use%20Magic%20Device)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MjcwMjQ1NiwxNzAwMjU3MDk3LC04MT
+eyJoaXN0b3J5IjpbLTgzNzI1OTI2OCwxNzAwMjU3MDk3LC04MT
 kxMjg1NjhdfQ==
 -->
