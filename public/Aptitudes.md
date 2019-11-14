@@ -64,8 +64,9 @@ Examples of the kinds of Knowledge you could have are:
 	
 # Wit
 Wit demonstrates your ability to think and act quickly, to know the right thing to say or do, to innovate and come up with creative solutions. 
-Uses for Wit include:
 
+Uses for Wit include:
+* 
 
 *This one is lite on examples*
 	PF: Int, Diplomancy(Gather Info), survival, stealth
@@ -116,7 +117,7 @@ NjI2fSwieWdaVzZ3MTc0U3doTEMweCI6eyJkaXNjdXNzaW9uSW
 QiOiJWdXZvN005Qmd4YXk3dGoyIiwic3ViIjoiZ2g6MTYwMjYx
 MSIsInRleHQiOiJNYWtlIHN1cmUgdG8gaW5jbHVkZSBicmF3bG
 luZyBoZXJlLiIsImNyZWF0ZWQiOjE1NzM3NTY1MTkwMDd9fSwi
-aGlzdG9yeSI6WzE1NzU2MTc1MDUsLTEyMjQ3MTIzMTUsMTgyMz
+aGlzdG9yeSI6Wy01NDMwNDUyNDMsLTEyMjQ3MTIzMTUsMTgyMz
 A1MDc1MCwzMjE0NDg2MTIsMjAzOTk2MjI4OSwtOTc2MDAyNDE1
 LC0xMzI1ODA2MjUyLC05NTI0OTUwNTQsLTE4OTk0NzYwNzcsMj
 EzMDk4ODMwOSwtMjEzMDU0OTg3LC0xODgzNzcxMjExLDEwNjEx
