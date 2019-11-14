@@ -32,11 +32,12 @@ Want 10
 ```
 # Subterfuge
 ```
-The Lying parts of dip + sleath, bluff
+The Lying parts of dip + sleath, bluff. Intimi
 ```
 # Empathy
 ```
-The non lying parts of dipl
+The non lying parts of diplomancy
+Animal Handling
 ```
 # 
 #
@@ -71,6 +72,6 @@ The non lying parts of dipl
 -   [Taking 10 and Taking 20](https://app.roll20.net/compendium/pathfinder/Skills:Taking%2010%20and%20Taking%2020)
 -   [Use Magic Device](https://app.roll20.net/compendium/pathfinder/Skills:Use%20Magic%20Device)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzE2MDkzMiwxNzAwMjU3MDk3LC04MT
-kxMjg1NjhdfQ==
+eyJoaXN0b3J5IjpbLTE5MTc4NTI1MTQsMTcwMDI1NzA5NywtOD
+E5MTI4NTY4XX0=
 -->
