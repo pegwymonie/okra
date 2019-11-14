@@ -48,8 +48,9 @@ Examples of the kinds of Knowledge you could have are:
 * languages
 * mechanical engineering (theory)
 * plants (general)
-* animals 
-* 
+* animals (general)
+* weather
+* geography
 
 
 	PF: Knowledge(*), Linguistics
@@ -86,7 +87,7 @@ perform, bluff, diplomancy
 # Fortitude
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjg1ODc1ODksLTk1MjQ5NTA1NCwtMT
+eyJoaXN0b3J5IjpbLTEzMjU4MDYyNTIsLTk1MjQ5NTA1NCwtMT
 g5OTQ3NjA3NywyMTMwOTg4MzA5LC0yMTMwNTQ5ODcsLTE4ODM3
 NzEyMTEsMTA2MTE0NzcwNSwxNzAwMjU3MDk3LC04MTkxMjg1Nj
 hdfQ==
