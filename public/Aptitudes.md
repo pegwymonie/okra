@@ -40,9 +40,10 @@ Examples include:
 	C/SRPG: Athletics
 
 # Knowledge
-Knowledge focuses on the facts and figures you've crammed in your head. Knowledge is often gained by studying for hours on days on years. Some knowledge can be picked up quickly while others take much longer.
+Knowledge focuses on the facts and figures you've crammed in your head. Knowledge is often gained by studying for hours or days or years. Some knowledge can be picked up quickly while others take much longer.
 
-Examples of Knowledge you could have are:
+Examples of the kinds of Knowledge you could have are:
+* medicine
 * 
 	PF: Knowledge(*), Linguistics
 	C/SRPG: Knowledge, Mechanical Enginerring, Medical Expertise, Scientific Expertise
@@ -78,7 +79,7 @@ perform, bluff, diplomancy
 # Fortitude
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMDIyNDc1NiwtOTUyNDk1MDU0LC0xOD
+eyJoaXN0b3J5IjpbMTMzMzkwNDc3MSwtOTUyNDk1MDU0LC0xOD
 k5NDc2MDc3LDIxMzA5ODgzMDksLTIxMzA1NDk4NywtMTg4Mzc3
 MTIxMSwxMDYxMTQ3NzA1LDE3MDAyNTcwOTcsLTgxOTEyODU2OF
 19
