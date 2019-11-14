@@ -6,7 +6,7 @@ The aspect of Mind is the embodiment of knowledge and experience. Knowledge coul
 Those strong of Mind are more often drawn towards logic or emotion rather than brute strength. A person with a high Mind aspect might be:
 * powerful arcane sorcerers, able to control any number of natural or unnatural phenomenon
 * masterful psychics who can control the very fabric of thought and reality
-* excellent problem-solvers, lightning-quick in their ability to perceive the answer to a difficult problem or the b
+* excellent problem-solvers, lightning-quick in their ability to perceive the answer to a difficult problem or the best way out of a sticky situation
 * gifted linguists well-versed in a vast array of tongues
 * a skilled diplomat capable of making even the worse deals seem fair
 ```
@@ -27,7 +27,7 @@ Describe usage of the soul ascept. Wisdom, Charisma, Consitution.
 Divine Magics, metaphysical skills, gut feeling. 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1OTE1MTIsLTE0NTQ5MTc3MCwtMTYwNj
-Y1NTg0NSw3MDEzNzQyNzEsMTkyMzM5OTQ5NSwtMTM5NDQwNDMz
-MCwxMDEyMzcwNjQxXX0=
+eyJoaXN0b3J5IjpbLTEyNTQ3MTQ0MCwtMTQ1NDkxNzcwLC0xNj
+A2NjU1ODQ1LDcwMTM3NDI3MSwxOTIzMzk5NDk1LC0xMzk0NDA0
+MzMwLDEwMTIzNzA2NDFdfQ==
 -->
