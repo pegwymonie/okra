@@ -40,7 +40,9 @@ Examples include:
 	C/SRPG: Athletics
 
 # Knowledge
-```Knowledge focuses on the facts and figu
+```Knowledge focuses on the facts and figures you've crammed in your head. Knowledge is often gained by studying for hours on days on years. Some knowledge can be picked up quickly while others take much longer.
+
+Examples of 
 	PF: Knowledge(*), Linguistics
 	C/SRPG: Knowledge, Mechanical Enginerring, Medical Expertise, Scientific Expertise
 ```
@@ -77,7 +79,7 @@ perform, bluff, diplomancy
 ```
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDQ0NTI1NjYsLTk1MjQ5NTA1NCwtMT
+eyJoaXN0b3J5IjpbLTEyMjI1MDQ5NzIsLTk1MjQ5NTA1NCwtMT
 g5OTQ3NjA3NywyMTMwOTg4MzA5LC0yMTMwNTQ5ODcsLTE4ODM3
 NzEyMTEsMTA2MTE0NzcwNSwxNzAwMjU3MDk3LC04MTkxMjg1Nj
 hdfQ==
