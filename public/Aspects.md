@@ -27,14 +27,14 @@ Consitution based magics(Think blood magic, Kineticist from PF), althetics, braw
 ```
 
 ## Soul
-*Add Copy*
-```
+The aspect of Soul is a measure of inner strength and atonement to the universe at large.
+
 Describe usage of the soul ascept. Wisdom, Charisma, Consitution.
 Divine Magics, metaphysical skills, gut feeling. 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTQ3ODA4MSwtMTI4MTE2MDM5NywtMT
-I1NDcxNDQwLC0xNDU0OTE3NzAsLTE2MDY2NTU4NDUsNzAxMzc0
-MjcxLDE5MjMzOTk0OTUsLTEzOTQ0MDQzMzAsMTAxMjM3MDY0MV
-19
+eyJoaXN0b3J5IjpbNDE4Nzg1Njc0LC02Njk0NzgwODEsLTEyOD
+ExNjAzOTcsLTEyNTQ3MTQ0MCwtMTQ1NDkxNzcwLC0xNjA2NjU1
+ODQ1LDcwMTM3NDI3MSwxOTIzMzk5NDk1LC0xMzk0NDA0MzMwLD
+EwMTIzNzA2NDFdfQ==
 -->
