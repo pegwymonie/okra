@@ -1,21 +1,16 @@
 # Aptitudes
 *Copy Here*
 
-```
-
-```
-
-# Name
-*Description Copy*
-
+Want 10
 
 # Weapons
-Inlude: ability to identify, utilize, repair, and disable weapons of all varieties. 
-
 # Althletics
 # Knowledge
-#
+# Wit
+# Perception
+# Creation
+# Subterfuge
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNTg3Mjg1LC04MTkxMjg1NjhdfQ==
+eyJoaXN0b3J5IjpbMTcwMDI1NzA5NywtODE5MTI4NTY4XX0=
 -->
