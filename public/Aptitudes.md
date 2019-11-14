@@ -31,14 +31,16 @@ Examples include:
 * climbing a rock wall
 * climbing a cliff
 * swimming laps in a pool
-* swimming in a large body of water(against or with a current)
+* swimming in a large body of water (against or with a current)
 * sprinting
-* runni
+* running distance
+* chasing an enemy
+* 
 	PF: Acrobatics, Climb, Swim
 	C/SRPG: Athletics
 
 # Knowledge
-```
+```Knowledge focuses on the facts and figu
 	PF: Knowledge(*), Linguistics
 	C/SRPG: Knowledge, Mechanical Enginerring, Medical Expertise, Scientific Expertise
 ```
@@ -75,8 +77,8 @@ perform, bluff, diplomancy
 ```
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzg5MDAyMSwtOTUyNDk1MDU0LC0xOD
-k5NDc2MDc3LDIxMzA5ODgzMDksLTIxMzA1NDk4NywtMTg4Mzc3
-MTIxMSwxMDYxMTQ3NzA1LDE3MDAyNTcwOTcsLTgxOTEyODU2OF
-19
+eyJoaXN0b3J5IjpbLTIxMDQ0NTI1NjYsLTk1MjQ5NTA1NCwtMT
+g5OTQ3NjA3NywyMTMwOTg4MzA5LC0yMTMwNTQ5ODcsLTE4ODM3
+NzEyMTEsMTA2MTE0NzcwNSwxNzAwMjU3MDk3LC04MTkxMjg1Nj
+hdfQ==
 -->
