@@ -4,10 +4,13 @@
 Want 10
 
 # Weapons
+```
+	C/SPRG: Guns, Heavy Weapons, Melee Weapons, Unarmed
+```
 # Althletics
 ```
 	PF: Acrobatics, Climb, Swim
-	CT
+	C/SRPG: Athletics
 ```
 # Knowledge
 # Wit
@@ -48,6 +51,6 @@ Want 10
 -   [Taking 10 and Taking 20](https://app.roll20.net/compendium/pathfinder/Skills:Taking%2010%20and%20Taking%2020)
 -   [Use Magic Device](https://app.roll20.net/compendium/pathfinder/Skills:Use%20Magic%20Device)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTM3MjE2NDksMTcwMDI1NzA5NywtOD
+eyJoaXN0b3J5IjpbLTE1NjY0MjAzMzEsMTcwMDI1NzA5NywtOD
 E5MTI4NTY4XX0=
 -->
