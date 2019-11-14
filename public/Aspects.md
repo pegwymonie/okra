@@ -21,10 +21,6 @@ A person with high Body favors the physical over the esoteric, but that doesn't 
 * a desperate blood mage who believes they have no choice but to resort to what some might call dark magic
 * a sublime wielder of elemental power seeking master the craft of shaping the world
 * a street thug who just likes to pick fights
-```
-Describe usage of the body ascept. Strength, Dexterity, Consitution.
-Consitution based magics(Think blood magic, Kineticist from PF), althetics, brawling.
-```
 
 ## Soul
 The aspect of Soul is a measure of inner strength and attunement to the universe at large. 
@@ -33,8 +29,9 @@ Wisdom, Charisma, Constitution.
 Divine Magics, metaphysical skills, gut feeling. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyNTA3NDcsNDk0MjE3OTQ1LDEwNzg1MD
-Q2MTQsLTY2OTQ3ODA4MSwtMTI4MTE2MDM5NywtMTI1NDcxNDQw
-LC0xNDU0OTE3NzAsLTE2MDY2NTU4NDUsNzAxMzc0MjcxLDE5Mj
-MzOTk0OTUsLTEzOTQ0MDQzMzAsMTAxMjM3MDY0MV19
+eyJoaXN0b3J5IjpbMjAwMjA0NzkzNSw1MzI1MDc0Nyw0OTQyMT
+c5NDUsMTA3ODUwNDYxNCwtNjY5NDc4MDgxLC0xMjgxMTYwMzk3
+LC0xMjU0NzE0NDAsLTE0NTQ5MTc3MCwtMTYwNjY1NTg0NSw3MD
+EzNzQyNzEsMTkyMzM5OTQ5NSwtMTM5NDQwNDMzMCwxMDEyMzcw
+NjQxXX0=
 -->
