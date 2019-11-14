@@ -23,8 +23,7 @@ A person with high Body favors the physical over the esoteric, but that doesn't 
 * a street thug who just likes to pick fights
 
 ## Soul
-The aspect of Soul is a measure of inner strength and attunement to the universe at large. This might mean that a person is devoted to a certain faith or simply has an excellent 
-
+The aspect of Soul is a measure of inner strength and attunement to the universe at large. This might mean that a person is devoted to a certain faith or simply has an intuitive grasp on people of the universe as a whole
 * a pious divine healer channeling the grace of their god
 * a righteous paladin wielding the fury of their god to smite their enemies
 * 
@@ -33,9 +32,9 @@ Wisdom, Charisma, Constitution.
 Divine Magics, metaphysical skills, gut feeling. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwOTg3NzI3Nyw3NTcwMDE3LDIwMDIwND
-c5MzUsNTMyNTA3NDcsNDk0MjE3OTQ1LDEwNzg1MDQ2MTQsLTY2
-OTQ3ODA4MSwtMTI4MTE2MDM5NywtMTI1NDcxNDQwLC0xNDU0OT
-E3NzAsLTE2MDY2NTU4NDUsNzAxMzc0MjcxLDE5MjMzOTk0OTUs
-LTEzOTQ0MDQzMzAsMTAxMjM3MDY0MV19
+eyJoaXN0b3J5IjpbMzI1NjU4MzkwLDc1NzAwMTcsMjAwMjA0Nz
+kzNSw1MzI1MDc0Nyw0OTQyMTc5NDUsMTA3ODUwNDYxNCwtNjY5
+NDc4MDgxLC0xMjgxMTYwMzk3LC0xMjU0NzE0NDAsLTE0NTQ5MT
+c3MCwtMTYwNjY1NTg0NSw3MDEzNzQyNzEsMTkyMzM5OTQ5NSwt
+MTM5NDQwNDMzMCwxMDEyMzcwNjQxXX0=
 -->
