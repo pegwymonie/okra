@@ -13,8 +13,10 @@
 Inlude: ability to identify, utilize, repair, and disable weapons of all varieties. 
 
 # Knowledge
-Include: ability to learn topical information
+Include: ability to pickup/find on relevant knowledge.
+
+# Whit
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc5NTU5MjI3XX0=
+eyJoaXN0b3J5IjpbLTgxOTEyODU2OF19
 -->
