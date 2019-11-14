@@ -70,7 +70,7 @@ Wit demonstrates your ability to think and act quickly, to know the right thing 
 	C/SRPG: None.
 
 # Perception
-Perception is the ability to sense the world around in greater detail than normal. You
+Perception is the ability to sense the world in greater detail than normal. You might see
 
 Perception, Sense Motive
 
@@ -114,9 +114,9 @@ NjI2fSwieWdaVzZ3MTc0U3doTEMweCI6eyJkaXNjdXNzaW9uSW
 QiOiJWdXZvN005Qmd4YXk3dGoyIiwic3ViIjoiZ2g6MTYwMjYx
 MSIsInRleHQiOiJNYWtlIHN1cmUgdG8gaW5jbHVkZSBicmF3bG
 luZyBoZXJlLiIsImNyZWF0ZWQiOjE1NzM3NTY1MTkwMDd9fSwi
-aGlzdG9yeSI6WzE4MjMwNTA3NTAsMzIxNDQ4NjEyLDIwMzk5Nj
-IyODksLTk3NjAwMjQxNSwtMTMyNTgwNjI1MiwtOTUyNDk1MDU0
-LC0xODk5NDc2MDc3LDIxMzA5ODgzMDksLTIxMzA1NDk4NywtMT
-g4Mzc3MTIxMSwxMDYxMTQ3NzA1LDE3MDAyNTcwOTcsLTgxOTEy
-ODU2OF19
+aGlzdG9yeSI6Wy0xMjI0NzEyMzE1LDE4MjMwNTA3NTAsMzIxND
+Q4NjEyLDIwMzk5NjIyODksLTk3NjAwMjQxNSwtMTMyNTgwNjI1
+MiwtOTUyNDk1MDU0LC0xODk5NDc2MDc3LDIxMzA5ODgzMDksLT
+IxMzA1NDk4NywtMTg4Mzc3MTIxMSwxMDYxMTQ3NzA1LDE3MDAy
+NTcwOTcsLTgxOTEyODU2OF19
 -->
