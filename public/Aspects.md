@@ -28,15 +28,15 @@ The aspect of Soul is a measure of inner strength and attunement to the universe
 Someone excelling in Soul might be:
 * a pious divine healer channeling the grace of their god
 * a righteous paladin wielding the fury of their god to smite their enemies
-* 
+* a hard-working detective who trusts his gut more than his senses
 
 
 Divine Magics, metaphysical skills, gut feeling. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDE0Nzc1OCw3NTcwMDE3LDIwMDIwND
-c5MzUsNTMyNTA3NDcsNDk0MjE3OTQ1LDEwNzg1MDQ2MTQsLTY2
-OTQ3ODA4MSwtMTI4MTE2MDM5NywtMTI1NDcxNDQwLC0xNDU0OT
-E3NzAsLTE2MDY2NTU4NDUsNzAxMzc0MjcxLDE5MjMzOTk0OTUs
-LTEzOTQ0MDQzMzAsMTAxMjM3MDY0MV19
+eyJoaXN0b3J5IjpbLTExOTI5NDgwNTcsNzU3MDAxNywyMDAyMD
+Q3OTM1LDUzMjUwNzQ3LDQ5NDIxNzk0NSwxMDc4NTA0NjE0LC02
+Njk0NzgwODEsLTEyODExNjAzOTcsLTEyNTQ3MTQ0MCwtMTQ1ND
+kxNzcwLC0xNjA2NjU1ODQ1LDcwMTM3NDI3MSwxOTIzMzk5NDk1
+LC0xMzk0NDA0MzMwLDEwMTIzNzA2NDFdfQ==
 -->
