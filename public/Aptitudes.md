@@ -63,7 +63,7 @@ Examples of the kinds of Knowledge you could have are:
 	C/SRPG: Knowledge, Mechanical Enginerring, Medical Expertise, Scientific Expertise
 	
 # Wit
-Wit demonstrates your ability to think and act quickly, to know the right thing to say or do, to innovate and come up with creative solutions. 
+Wit demonstrates your ability to think and act quickly, to know the right thing to say or do, to innovate and come up with creative solutions. It al
 
 Uses for Wit include:
 * gaining a moment to think in a tense situation
@@ -119,10 +119,10 @@ NjI2fSwieWdaVzZ3MTc0U3doTEMweCI6eyJkaXNjdXNzaW9uSW
 QiOiJWdXZvN005Qmd4YXk3dGoyIiwic3ViIjoiZ2g6MTYwMjYx
 MSIsInRleHQiOiJNYWtlIHN1cmUgdG8gaW5jbHVkZSBicmF3bG
 luZyBoZXJlLiIsImNyZWF0ZWQiOjE1NzM3NTY1MTkwMDd9fSwi
-aGlzdG9yeSI6Wy05NDE2MDQ2MTcsMjA2NzAzMzg2MCwtOTQxNj
-A0NjE3LC0xMjI0NzEyMzE1LDE4MjMwNTA3NTAsMzIxNDQ4NjEy
-LDIwMzk5NjIyODksLTk3NjAwMjQxNSwtMTMyNTgwNjI1MiwtOT
-UyNDk1MDU0LC0xODk5NDc2MDc3LDIxMzA5ODgzMDksLTIxMzA1
-NDk4NywtMTg4Mzc3MTIxMSwxMDYxMTQ3NzA1LDE3MDAyNTcwOT
-csLTgxOTEyODU2OF19
+aGlzdG9yeSI6Wzk2MTg5NzgwMywtOTQxNjA0NjE3LDIwNjcwMz
+M4NjAsLTk0MTYwNDYxNywtMTIyNDcxMjMxNSwxODIzMDUwNzUw
+LDMyMTQ0ODYxMiwyMDM5OTYyMjg5LC05NzYwMDI0MTUsLTEzMj
+U4MDYyNTIsLTk1MjQ5NTA1NCwtMTg5OTQ3NjA3NywyMTMwOTg4
+MzA5LC0yMTMwNTQ5ODcsLTE4ODM3NzEyMTEsMTA2MTE0NzcwNS
+wxNzAwMjU3MDk3LC04MTkxMjg1NjhdfQ==
 -->
