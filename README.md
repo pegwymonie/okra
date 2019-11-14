@@ -47,11 +47,11 @@ Techniques:
 
 Skills:
 * Very Expansive.
-* 
+* Must be used with a tool.
 * 3 Ranks (Proficient, Expert, Master )
-  * Rank 1 reduces usage difficulty by one.
-  * Rank 2 reduces usage difficulty by two.
-  * Rank 3 reduces usage difficulty by three, you win ties, and you may anchor one step of your CPL die.
+  * Rank 1 reduces tool usage difficulty by one.
+  * Rank 2 reduces tool usage difficulty by two.
+  * Rank 3 reduces tool usage difficulty by three, you win ties, and you may anchor one step of your CPL die.
 * Each Level of Skill applies to a smaller subset of an item group.
   * Proficient: Long Bladed Weapons
   * Trained: Bastard Swords
@@ -212,12 +212,12 @@ Tools are used to help with actions. Tools have two ways of being benificial:
 * Reducing difficulties of actions
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJJYUFVOHFnVHVmSnBKcU9NIjp7In
-RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjEwMDE2LCJlbmQiOjEw
-MDIzfX0sImNvbW1lbnRzIjp7IjVNaWY4UGRaTVp4QjNhWjEiOn
+RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjEwMDU2LCJlbmQiOjEw
+MDYzfX0sImNvbW1lbnRzIjp7IjVNaWY4UGRaTVp4QjNhWjEiOn
 siZGlzY3Vzc2lvbklkIjoiSWFBVThxZ1R1ZkpwSnFPTSIsInN1
 YiI6ImdoOjE2MDI2MTEiLCJ0ZXh0IjoiQ29tbWVudHMiLCJjcm
-VhdGVkIjoxNTczNjU0OTkxNTA4fX0sImhpc3RvcnkiOlsxMDY3
-MTEyNDc5LDUwNzU1NDY2OSw0MTM4MzM4MTgsLTE4MTI5NjE2NC
-wtMTcwMDcyMDU1NCwtMTY2MTUyNjcwMiwtNTcyNzIyNzAxLC0x
-NTgzNzA3NDE4LC0yNDY1MDc5NTFdfQ==
+VhdGVkIjoxNTczNjU0OTkxNTA4fX0sImhpc3RvcnkiOls5NDc3
+NDA0MTEsNTA3NTU0NjY5LDQxMzgzMzgxOCwtMTgxMjk2MTY0LC
+0xNzAwNzIwNTU0LC0xNjYxNTI2NzAyLC01NzI3MjI3MDEsLTE1
+ODM3MDc0MTgsLTI0NjUwNzk1MV19
 -->
