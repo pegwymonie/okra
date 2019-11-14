@@ -8,13 +8,10 @@ Those strong of Mind are more often drawn towards logic or emotion rather than b
 * masterful psychics who can control the very fabric of thought and reality
 * excellent problem-solvers, lightning-quick in their ability to perceive the answer to a difficult problem or the best way out of a sticky situation
 * gifted linguists well-versed in a vast array of tongues
-* a skilled diplomat capable of making even the worse deals seem fair
-```
-Describe usage of the mind ascept. Inteligence, Wisdom, Charisma.
-Arcane magic, Psychic abilities, problem solving, etc.
+* a skilled diplomat armed with knowledge of the person they are about to enter negotiations with
 ```
 ## Body
-*Add Copy*
+
 ```
 Describe usage of the body ascept. Strength, Dexterity, Consitution.
 Consitution based magics(Think blood magic, Kineticist from PF), althetics, brawling.
@@ -27,7 +24,7 @@ Describe usage of the soul ascept. Wisdom, Charisma, Consitution.
 Divine Magics, metaphysical skills, gut feeling. 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDMxMTkyMiwtMTI1NDcxNDQwLC0xND
-U0OTE3NzAsLTE2MDY2NTU4NDUsNzAxMzc0MjcxLDE5MjMzOTk0
-OTUsLTEzOTQ0MDQzMzAsMTAxMjM3MDY0MV19
+eyJoaXN0b3J5IjpbNjU3NDczODMzLC0xMjU0NzE0NDAsLTE0NT
+Q5MTc3MCwtMTYwNjY1NTg0NSw3MDEzNzQyNzEsMTkyMzM5OTQ5
+NSwtMTM5NDQwNDMzMCwxMDEyMzcwNjQxXX0=
 -->
