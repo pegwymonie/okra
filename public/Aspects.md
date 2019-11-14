@@ -15,9 +15,10 @@ The aspect of Body can be described in two words: hard work. Hard work can be gr
 To be the strongest, the fastest, the toughest is what drives those strong of Body to push themselves further and further. And when they reach that peak of performance they've been striving for? They set a new goal even higher than the first. 
 
 A person with high Body favors the physical over the esoteric, but that doesn't mean they're stupid. Such a person might be:
-* an enthusiastic bodybuilder that lives to pump iron
+* a unshakable martial arts expert looking for an ever-stronger oppo
 * a daring track star aiming to break a world record
-* a down-to-earth construction worker si
+* a down-to-earth construction worker simply trying to feed their family
+* a
 ```
 Describe usage of the body ascept. Strength, Dexterity, Consitution.
 Consitution based magics(Think blood magic, Kineticist from PF), althetics, brawling.
@@ -30,8 +31,8 @@ Describe usage of the soul ascept. Wisdom, Charisma, Consitution.
 Divine Magics, metaphysical skills, gut feeling. 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzNzI4NDEyLC0xMjgxMTYwMzk3LC0xMj
-U0NzE0NDAsLTE0NTQ5MTc3MCwtMTYwNjY1NTg0NSw3MDEzNzQy
-NzEsMTkyMzM5OTQ5NSwtMTM5NDQwNDMzMCwxMDEyMzcwNjQxXX
-0=
+eyJoaXN0b3J5IjpbLTU5MDQ4NjI2NywtMTI4MTE2MDM5NywtMT
+I1NDcxNDQwLC0xNDU0OTE3NzAsLTE2MDY2NTU4NDUsNzAxMzc0
+MjcxLDE5MjMzOTk0OTUsLTEzOTQ0MDQzMzAsMTAxMjM3MDY0MV
+19
 -->
