@@ -24,10 +24,10 @@ Examples of tools include:
 	C/SPRG: Guns, Heavy Weapons, Melee Weapons, Unarmed Weapons
 
 # Athletics
-```
+Athletics represents the ability to do, well, athletic things. You can do these things without being an athlete sure, but
 	PF: Acrobatics, Climb, Swim
 	C/SRPG: Athletics
-```
+
 # Knowledge
 ```
 	PF: Knowledge(*), Linguistics
@@ -66,7 +66,8 @@ perform, bluff, diplomancy
 ```
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MjQ5NTA1NCwtMTg5OTQ3NjA3NywyMT
-MwOTg4MzA5LC0yMTMwNTQ5ODcsLTE4ODM3NzEyMTEsMTA2MTE0
-NzcwNSwxNzAwMjU3MDk3LC04MTkxMjg1NjhdfQ==
+eyJoaXN0b3J5IjpbLTEzNjM4NTYzMjMsLTk1MjQ5NTA1NCwtMT
+g5OTQ3NjA3NywyMTMwOTg4MzA5LC0yMTMwNTQ5ODcsLTE4ODM3
+NzEyMTEsMTA2MTE0NzcwNSwxNzAwMjU3MDk3LC04MTkxMjg1Nj
+hdfQ==
 -->
