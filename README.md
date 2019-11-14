@@ -47,9 +47,9 @@ Techniques:
 
 Skills:
 * Very Expansive.
-* 3 Levels (Proficient, Trained, Mastered )
-  * Proficient reduces usage difficulty by one.
-  * Trained reduces usage difficulty by two.
+* 3 Ranks (Proficient, Expert, Master )
+  * Rank 1 reduces usage difficulty by one.
+  * Rank 2 reduces usage difficulty by two.
   * Mastered reduces usage difficulty by three, you win ties, and you may anchor one step of your CPL die.
 * Each Level of Skill applies to a smaller subset of an item group.
   * Proficient: Long Bladed Weapons
@@ -211,12 +211,12 @@ Tools are used to help with actions. Tools have two ways of being benificial:
 * Reducing difficulties of actions
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJJYUFVOHFnVHVmSnBKcU9NIjp7In
-RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjEwMDI0LCJlbmQiOjEw
-MDMxfX0sImNvbW1lbnRzIjp7IjVNaWY4UGRaTVp4QjNhWjEiOn
+RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjEwMDE1LCJlbmQiOjEw
+MDIyfX0sImNvbW1lbnRzIjp7IjVNaWY4UGRaTVp4QjNhWjEiOn
 siZGlzY3Vzc2lvbklkIjoiSWFBVThxZ1R1ZkpwSnFPTSIsInN1
 YiI6ImdoOjE2MDI2MTEiLCJ0ZXh0IjoiQ29tbWVudHMiLCJjcm
-VhdGVkIjoxNTczNjU0OTkxNTA4fX0sImhpc3RvcnkiOls0MTM4
-MzM4MTgsLTE4MTI5NjE2NCwtMTcwMDcyMDU1NCwtMTY2MTUyNj
-cwMiwtNTcyNzIyNzAxLC0xNTgzNzA3NDE4LC0yNDY1MDc5NTFd
-fQ==
+VhdGVkIjoxNTczNjU0OTkxNTA4fX0sImhpc3RvcnkiOlstMjc0
+NTEwNjc3LDQxMzgzMzgxOCwtMTgxMjk2MTY0LC0xNzAwNzIwNT
+U0LC0xNjYxNTI2NzAyLC01NzI3MjI3MDEsLTE1ODM3MDc0MTgs
+LTI0NjUwNzk1MV19
 -->
