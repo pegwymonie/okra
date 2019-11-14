@@ -26,8 +26,18 @@ Want 10
 ```
 # Perception
 # Creation
+```
+	PF: Craft(*)
+	C/SRPG: Craft, Enginerring, Medical, Science
+```
 # Subterfuge
+```
+The Lying parts of dip + sleath, bluff
+```
 # Empathy
+```
+The non lying parts of dipl
+```
 # 
 #
 
@@ -61,6 +71,6 @@ Want 10
 -   [Taking 10 and Taking 20](https://app.roll20.net/compendium/pathfinder/Skills:Taking%2010%20and%20Taking%2020)
 -   [Use Magic Device](https://app.roll20.net/compendium/pathfinder/Skills:Use%20Magic%20Device)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzI1OTI2OCwxNzAwMjU3MDk3LC04MT
+eyJoaXN0b3J5IjpbLTY5NzE2MDkzMiwxNzAwMjU3MDk3LC04MT
 kxMjg1NjhdfQ==
 -->
