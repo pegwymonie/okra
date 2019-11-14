@@ -68,6 +68,7 @@ Wit demonstrates your ability to think and act quickly, to know the right thing 
 Uses for Wit include:
 * gaining a moment to think in a tense situation
 * figuring out how to fashion a fishing pole from natural materials
+* sneaking into or out of a heavily guarded place
 * 
 
 *This one is lite on examples*
@@ -119,8 +120,8 @@ NjI2fSwieWdaVzZ3MTc0U3doTEMweCI6eyJkaXNjdXNzaW9uSW
 QiOiJWdXZvN005Qmd4YXk3dGoyIiwic3ViIjoiZ2g6MTYwMjYx
 MSIsInRleHQiOiJNYWtlIHN1cmUgdG8gaW5jbHVkZSBicmF3bG
 luZyBoZXJlLiIsImNyZWF0ZWQiOjE1NzM3NTY1MTkwMDd9fSwi
-aGlzdG9yeSI6Wy05NDE2MDQ2MTcsLTk0MTYwNDYxNywyMDY3MD
-MzODYwLC05NDE2MDQ2MTcsLTEyMjQ3MTIzMTUsMTgyMzA1MDc1
+aGlzdG9yeSI6Wy02MjE5MTg3NjcsLTk0MTYwNDYxNywtOTQxNj
+A0NjE3LDIwNjcwMzM4NjAsLTEyMjQ3MTIzMTUsMTgyMzA1MDc1
 MCwzMjE0NDg2MTIsMjAzOTk2MjI4OSwtOTc2MDAyNDE1LC0xMz
 I1ODA2MjUyLC05NTI0OTUwNTQsLTE4OTk0NzYwNzcsMjEzMDk4
 ODMwOSwtMjEzMDU0OTg3LC0xODgzNzcxMjExLDEwNjExNDc3MD
