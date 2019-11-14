@@ -25,13 +25,17 @@ A person with high Body favors the physical over the esoteric, but that doesn't 
 ## Soul
 The aspect of Soul is a measure of inner strength and attunement to the universe at large. 
 
+* a pious divine healer channeling the grace of their god
+* a righteous paladin weilding the fuy of their god to smite their enemies
+* 
+
 Wisdom, Charisma, Constitution.
 Divine Magics, metaphysical skills, gut feeling. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjA0NzkzNSw1MzI1MDc0Nyw0OTQyMT
-c5NDUsMTA3ODUwNDYxNCwtNjY5NDc4MDgxLC0xMjgxMTYwMzk3
-LC0xMjU0NzE0NDAsLTE0NTQ5MTc3MCwtMTYwNjY1NTg0NSw3MD
-EzNzQyNzEsMTkyMzM5OTQ5NSwtMTM5NDQwNDMzMCwxMDEyMzcw
-NjQxXX0=
+eyJoaXN0b3J5IjpbLTExMjU1MzA3OSwyMDAyMDQ3OTM1LDUzMj
+UwNzQ3LDQ5NDIxNzk0NSwxMDc4NTA0NjE0LC02Njk0NzgwODEs
+LTEyODExNjAzOTcsLTEyNTQ3MTQ0MCwtMTQ1NDkxNzcwLC0xNj
+A2NjU1ODQ1LDcwMTM3NDI3MSwxOTIzMzk5NDk1LC0xMzk0NDA0
+MzMwLDEwMTIzNzA2NDFdfQ==
 -->
