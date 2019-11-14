@@ -47,10 +47,11 @@ Techniques:
 
 Skills:
 * Very Expansive.
-* 3 Levels (Proficient, Trained, Mastered )
-  * Proficient reduces usage difficulty by one.
-  * Trained reduces usage difficulty by two.
-  * Mastered reduces usage difficulty by three, you win ties, and you may anchor one step of your CPL die.
+* Must be used with a tool.
+* 3 Ranks (Proficient, Expert, Master )
+  * Rank 1 reduces tool usage difficulty by one.
+  * Rank 2 reduces tool usage difficulty by two.
+  * Rank 3 reduces tool usage difficulty by three, you win ties, and you may anchor one step of your CPL die.
 * Each Level of Skill applies to a smaller subset of an item group.
   * Proficient: Long Bladed Weapons
   * Trained: Bastard Swords
@@ -74,9 +75,15 @@ Advancement:
 * Advancement is done all in character using time, money, experience, influence, or some combination of the previous.
 * Stats take a number of lessons to advance equal to twice the current value.
 
+Lessons:
+* lessons are how characters grow and learn
+* lessons are assigned to a specific statictic when they are earned. 
+* Aptitudes, Skills, and Proficienies require double the next rank value of experience to advance.
+* Aspects require triple the next rank value of experience to advance.
+
 Natual Lessons:
-* You can complete a lesson by performing actions including the stat. 
-  * When you fail or succeed on a roll, but not critical fail or critical succeed, you may attempt to gain a lesson in **one** stat used in the roll.
+* You can earn lesson by performing actions including the stat. 
+  * When you fail or succeed on a roll, but not critical fail or critical succeed, you gain a lesson in **one** stat used in the roll.
     * Make a note of the amount you surpassed or missed by as the difficulty of the lesson.
     * Make a note of the attribute and, if any, aptitude used.
     * Make a note of which ( Attribute, Aptitude, Technique, or Skill ) the lesson will be for. 
@@ -92,17 +99,31 @@ Resolving Lessons:
 * At the end of a session, or when ever there is more than a day of downtime you may:
     * Resolve number lessons learned equal to your twice your character power level (GM's might modify this if a lot has happened. General Rule is (CPL*Scene)):
         * Make a roll with the used attribute, adding half the aptitude ranks if applicable, using twice the difficulty of the lesson.
-            * A Successful role provides one lesson. 
-            * A Critical Success provides two.
+            * A Successful role provides one experience. 
+            * A Critical Success provides two experience.
             * A Critical failure provides a sense of deep disappointment.
     * Carry forward a number of un-resolved lessons equal to 4 times your character level, any not carried forward are lost. 
 
+Aspect Spending:
+* Actions may require you to spend an aspect to use them.
+* This spending represents a over-excertion of the aspect, "pushing" your self.
+
+Aspect Spending (Health Simple):
+* You take one damage in the pool corresponding to the aspect.
+* This does not tigger any effects that occur when taking damage.
+
+Aspect Spending (Wounds):
+* You recieve the below wound:
+	* Exhaustion( *Aspect*)
+		* Effect: -1 *aspect* rank
+		* Cure: Short Rest
+* This does not tigger any effects that occur when taking wounds.
 
 Health (Simple):
 * Each aspect has its own health/resource pool.
-  * Three times the attribute rank.
+  * Three times the aspect rank.
 * If the pool is reduced to zero:
-    * Actions can no longer spend this attribute
+    * Actions can no longer spend this aspect
     * Total of -4 for actions using the attribute
 * If the pool goes negative:
     * by more that your rank in the attribute, you fall unconscious.
@@ -130,8 +151,8 @@ Dying (Hard):
 Losing Stats:
 * Temporary loses are present until a character has rested with no health penalties. 
 * Permanent loses are marked off the character sheet. 
-    * If there is a lower rank, you are considered to have completed half the required steps to advance.
-    * If there is no lower rank, you lose all steps.
+    * If there is a lower rank, you retain half the experience needed to advance.
+    * If there is no lower rank, you lose all experience.
 * Roll a d20 for each lost rank:
     * 1: Highest attribute.
     * 2: Highest skill.
@@ -165,13 +186,15 @@ Movement:
   * Your movement falls short, equal to the amount you failed plus one. 
 
 Rounds:
-* 1 Action per turn.
-* Each action can have a single trivial action performed with it for no penalty.
-* 2 Actions can be combined into a single action if they do not rely on the same parts of the body, but both actions take a -2. (Moving, and Shooting.)
+* 1 Action per turn with out penalty.
+* 2 Actions can be combined into a single action if they do not rely on the same parts of the body.
+	* If one of the actions is trivial, there is no aditional penalty.
+	* If one action requires no check, the other action takes a -1.
+	* If both actions require checks, they both take -2.
   * When two actions are combined they are resolved at the same time. 
-  * Negative effects caused by failures are applied to the other check.
-  * IE, if you fail to gain extra movement with a movement action, the penalty for winded is applied to the action it was combined with. 
-  * (This can cause some pretty bad outcomes, if you say failed to move and that caused you to strain your self in another action, both negative outcomes would feed into each other )
+	  * Negative effects caused by failures are applied to the other check, if there is a conflict the worst effect occurs first.
+	  * IE, if you fail to gain extra movement with a movement action, the penalty for winded is applied to the action it was combined with. 
+	  * (This can cause some pretty bad outcomes, if you say failed to move and that caused you to strain your self in another action, both negative outcomes would feed into each other )
 * You may take an additional action a turn, it confers either a -2 on all actions being taken, or a -5 on the additional action being taken.
     * This must be declared at the start of the turn, otherwise the additional action takes a -6 and is considered a **snap** action.
     
@@ -184,13 +207,17 @@ Attacks:
 
 # Tools
 
-**Add Content Here**
+Tools are used to help with actions. Tools have two ways of being benificial:
+* Providing rank bonus'es
+* Reducing difficulties of actions
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJJYUFVOHFnVHVmSnBKcU9NIjp7In
-RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjkxMTUsImVuZCI6OTEy
-Mn19LCJjb21tZW50cyI6eyI1TWlmOFBkWk1aeEIzYVoxIjp7Im
-Rpc2N1c3Npb25JZCI6IklhQVU4cWdUdWZKcEpxT00iLCJzdWIi
-OiJnaDoxNjAyNjExIiwidGV4dCI6IkNvbW1lbnRzIiwiY3JlYX
-RlZCI6MTU3MzY1NDk5MTUwOH19LCJoaXN0b3J5IjpbLTI0NjUw
-Nzk1MV19
+RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjEwMDU2LCJlbmQiOjEw
+MDYzfX0sImNvbW1lbnRzIjp7IjVNaWY4UGRaTVp4QjNhWjEiOn
+siZGlzY3Vzc2lvbklkIjoiSWFBVThxZ1R1ZkpwSnFPTSIsInN1
+YiI6ImdoOjE2MDI2MTEiLCJ0ZXh0IjoiQ29tbWVudHMiLCJjcm
+VhdGVkIjoxNTczNjU0OTkxNTA4fX0sImhpc3RvcnkiOls5NDc3
+NDA0MTEsNTA3NTU0NjY5LDQxMzgzMzgxOCwtMTgxMjk2MTY0LC
+0xNzAwNzIwNTU0LC0xNjYxNTI2NzAyLC01NzI3MjI3MDEsLTE1
+ODM3MDc0MTgsLTI0NjUwNzk1MV19
 -->
