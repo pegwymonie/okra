@@ -11,7 +11,7 @@ Those strong of Mind are more often drawn towards logic or emotion rather than b
 * a skilled diplomat armed with knowledge of the person they are about to enter negotiations with
 
 ## Body
-The aspect of Body
+The aspect of Body can be described in two words: hard work. To be the strongest, the fastest, the 
 ```
 Describe usage of the body ascept. Strength, Dexterity, Consitution.
 Consitution based magics(Think blood magic, Kineticist from PF), althetics, brawling.
@@ -24,7 +24,8 @@ Describe usage of the soul ascept. Wisdom, Charisma, Consitution.
 Divine Magics, metaphysical skills, gut feeling. 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODExNjAzOTcsLTEyNTQ3MTQ0MCwtMT
-Q1NDkxNzcwLC0xNjA2NjU1ODQ1LDcwMTM3NDI3MSwxOTIzMzk5
-NDk1LC0xMzk0NDA0MzMwLDEwMTIzNzA2NDFdfQ==
+eyJoaXN0b3J5IjpbLTE0NTczNjAwNzEsLTEyODExNjAzOTcsLT
+EyNTQ3MTQ0MCwtMTQ1NDkxNzcwLC0xNjA2NjU1ODQ1LDcwMTM3
+NDI3MSwxOTIzMzk5NDk1LC0xMzk0NDA0MzMwLDEwMTIzNzA2ND
+FdfQ==
 -->
