@@ -3,7 +3,7 @@
 
 Want 10
 C/SRPG = Cortex / Serentity RPG
-# Weapons
+# Tools
 ```
 	PF: Craft(Weapons*), Knowlegde(Dungenering), Base Attack Bonus
 	C/SPRG: Guns, Heavy Weapons, Melee Weapons, Unarmed Weapons
@@ -49,6 +49,6 @@ perform, bluff, diplomancy
 ```
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTE0NzcwNSwxNzAwMjU3MDk3LC04MT
-kxMjg1NjhdfQ==
+eyJoaXN0b3J5IjpbLTE4ODM3NzEyMTEsMTA2MTE0NzcwNSwxNz
+AwMjU3MDk3LC04MTkxMjg1NjhdfQ==
 -->
