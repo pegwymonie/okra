@@ -4,7 +4,7 @@
 Want 10
 C/SRPG = Cortex / Serentity RPG
 # Tools
-Tools help you do a job and do it well, but not every job requires the same tool. This aptitude cover a broad spectrum of items that
+Tools help you do a job and do it well, but not every job requires the same tool. This aptitude covers a broad spectrum of items that 
 	PF: Craft(Weapons*), Knowlegde(Dungenering), Base Attack Bonus
 	C/SPRG: Guns, Heavy Weapons, Melee Weapons, Unarmed Weapons
 
@@ -51,7 +51,7 @@ perform, bluff, diplomancy
 ```
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxNjE3OTE2LDIxMzA5ODgzMDksLTIxMz
-A1NDk4NywtMTg4Mzc3MTIxMSwxMDYxMTQ3NzA1LDE3MDAyNTcw
-OTcsLTgxOTEyODU2OF19
+eyJoaXN0b3J5IjpbLTE4OTk0NzYwNzcsMjEzMDk4ODMwOSwtMj
+EzMDU0OTg3LC0xODgzNzcxMjExLDEwNjExNDc3MDUsMTcwMDI1
+NzA5NywtODE5MTI4NTY4XX0=
 -->
