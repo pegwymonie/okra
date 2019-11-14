@@ -9,6 +9,16 @@ Tools help you do a job and do it well, but not every job requires the same tool
 Examples of tools include:
 * weaponcraft
 * armorcraft
+* the Internet
+* lockpicks
+* hammer and nails
+* crowbar
+* rope
+* crossbow
+* sword
+* laser rifle
+* handgun
+* machine gun
 * 
 	PF: Craft(Weapons*), Knowlegde(Dungenering), Base Attack Bonus
 	C/SPRG: Guns, Heavy Weapons, Melee Weapons, Unarmed Weapons
@@ -56,7 +66,7 @@ perform, bluff, diplomancy
 ```
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTgyNTQ2NzMsLTE4OTk0NzYwNzcsMj
-EzMDk4ODMwOSwtMjEzMDU0OTg3LC0xODgzNzcxMjExLDEwNjEx
-NDc3MDUsMTcwMDI1NzA5NywtODE5MTI4NTY4XX0=
+eyJoaXN0b3J5IjpbLTk1MjQ5NTA1NCwtMTg5OTQ3NjA3NywyMT
+MwOTg4MzA5LC0yMTMwNTQ5ODcsLTE4ODM3NzEyMTEsMTA2MTE0
+NzcwNSwxNzAwMjU3MDk3LC04MTkxMjg1NjhdfQ==
 -->
