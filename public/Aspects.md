@@ -19,7 +19,8 @@ A person with high Body favors the physical over the esoteric, but that doesn't 
 * a daring track star aiming to break a world record
 * a down-to-earth construction worker simply trying to feed their family
 * a desperate blood mage who believes they have no choice but to resort to what some might call dark magic
-* a street t
+* a sublime weilder of elemental power seeking master the craft of shaping the world
+* a street thug who just likes to pick fights
 ```
 Describe usage of the body ascept. Strength, Dexterity, Consitution.
 Consitution based magics(Think blood magic, Kineticist from PF), althetics, brawling.
@@ -32,8 +33,8 @@ Describe usage of the soul ascept. Wisdom, Charisma, Consitution.
 Divine Magics, metaphysical skills, gut feeling. 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzkxOTExMTgsLTEyODExNjAzOTcsLT
-EyNTQ3MTQ0MCwtMTQ1NDkxNzcwLC0xNjA2NjU1ODQ1LDcwMTM3
-NDI3MSwxOTIzMzk5NDk1LC0xMzk0NDA0MzMwLDEwMTIzNzA2ND
-FdfQ==
+eyJoaXN0b3J5IjpbMTkxNzE0MzczNSwtMTI4MTE2MDM5NywtMT
+I1NDcxNDQwLC0xNDU0OTE3NzAsLTE2MDY2NTU4NDUsNzAxMzc0
+MjcxLDE5MjMzOTk0OTUsLTEzOTQ0MDQzMzAsMTAxMjM3MDY0MV
+19
 -->
