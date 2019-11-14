@@ -4,11 +4,11 @@
 Want 10
 C/SRPG = Cortex / Serentity RPG
 # Tools
-```
+Tools help you do
 	PF: Craft(Weapons*), Knowlegde(Dungenering), Base Attack Bonus
 	C/SPRG: Guns, Heavy Weapons, Melee Weapons, Unarmed Weapons
-```
-# Althletics
+
+# Athletics
 ```
 	PF: Acrobatics, Climb, Swim
 	C/SRPG: Athletics
@@ -51,6 +51,7 @@ perform, bluff, diplomancy
 ```
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA1NDk4NywtMTg4Mzc3MTIxMSwxMD
-YxMTQ3NzA1LDE3MDAyNTcwOTcsLTgxOTEyODU2OF19
+eyJoaXN0b3J5IjpbNDYyMTIzNjk5LC0yMTMwNTQ5ODcsLTE4OD
+M3NzEyMTEsMTA2MTE0NzcwNSwxNzAwMjU3MDk3LC04MTkxMjg1
+NjhdfQ==
 -->
