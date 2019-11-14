@@ -47,6 +47,7 @@ Techniques:
 
 Skills:
 * Very Expansive.
+* 
 * 3 Ranks (Proficient, Expert, Master )
   * Rank 1 reduces usage difficulty by one.
   * Rank 2 reduces usage difficulty by two.
@@ -211,12 +212,12 @@ Tools are used to help with actions. Tools have two ways of being benificial:
 * Reducing difficulties of actions
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJJYUFVOHFnVHVmSnBKcU9NIjp7In
-RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjEwMDEzLCJlbmQiOjEw
-MDIwfX0sImNvbW1lbnRzIjp7IjVNaWY4UGRaTVp4QjNhWjEiOn
+RleHQiOiJNaXNzaW5nIiwic3RhcnQiOjEwMDE2LCJlbmQiOjEw
+MDIzfX0sImNvbW1lbnRzIjp7IjVNaWY4UGRaTVp4QjNhWjEiOn
 siZGlzY3Vzc2lvbklkIjoiSWFBVThxZ1R1ZkpwSnFPTSIsInN1
 YiI6ImdoOjE2MDI2MTEiLCJ0ZXh0IjoiQ29tbWVudHMiLCJjcm
-VhdGVkIjoxNTczNjU0OTkxNTA4fX0sImhpc3RvcnkiOls1MDc1
-NTQ2NjksNDEzODMzODE4LC0xODEyOTYxNjQsLTE3MDA3MjA1NT
-QsLTE2NjE1MjY3MDIsLTU3MjcyMjcwMSwtMTU4MzcwNzQxOCwt
-MjQ2NTA3OTUxXX0=
+VhdGVkIjoxNTczNjU0OTkxNTA4fX0sImhpc3RvcnkiOlsxMDY3
+MTEyNDc5LDUwNzU1NDY2OSw0MTM4MzM4MTgsLTE4MTI5NjE2NC
+wtMTcwMDcyMDU1NCwtMTY2MTUyNjcwMiwtNTcyNzIyNzAxLC0x
+NTgzNzA3NDE4LC0yNDY1MDc5NTFdfQ==
 -->
