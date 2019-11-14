@@ -2,7 +2,7 @@
 *Copy Here*
 
 Want 10
-C/SRPG = Cortex / Serentity R
+C/SRPG = Cortex / Serentity RPG
 # Weapons
 ```
 	PF: Craft(Weapons*), Knowlegde(Dungenering), Base Attack Bonus
@@ -25,6 +25,9 @@ C/SRPG = Cortex / Serentity R
 	C/SRPG: None.
 ```
 # Perception
+```
+Perception, Sense Motive
+```
 # Creation
 ```
 	PF: Craft(*)
@@ -40,9 +43,12 @@ The non lying parts of diplomancy
 Animal Handling
 Sense Motive
 ```
-# 
+# Charisma
+```
+perform, bluff, diplomancy
+```
 #
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4NTkwNDA5LDE3MDAyNTcwOTcsLTgxOT
-EyODU2OF19
+eyJoaXN0b3J5IjpbMTA2MTE0NzcwNSwxNzAwMjU3MDk3LC04MT
+kxMjg1NjhdfQ==
 -->
