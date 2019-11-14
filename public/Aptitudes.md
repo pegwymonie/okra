@@ -24,7 +24,11 @@ Examples of tools include:
 	C/SPRG: Guns, Heavy Weapons, Melee Weapons, Unarmed Weapons
 
 # Athletics
-Athletics represents the ability to do, well, athletic things. You can do these things without being an athlete sure, but
+Athletics represents the ability to do, well, athletic things. You can do these things without being an athlete sure, but they tend to require some kind of physical fitness to pull off well.
+
+Examples include:
+* climbing a rope
+* climbing a rock wall
 	PF: Acrobatics, Climb, Swim
 	C/SRPG: Athletics
 
@@ -66,8 +70,8 @@ perform, bluff, diplomancy
 ```
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjM4NTYzMjMsLTk1MjQ5NTA1NCwtMT
-g5OTQ3NjA3NywyMTMwOTg4MzA5LC0yMTMwNTQ5ODcsLTE4ODM3
-NzEyMTEsMTA2MTE0NzcwNSwxNzAwMjU3MDk3LC04MTkxMjg1Nj
-hdfQ==
+eyJoaXN0b3J5IjpbMTY0NDgxNTQwNywtOTUyNDk1MDU0LC0xOD
+k5NDc2MDc3LDIxMzA5ODgzMDksLTIxMzA1NDk4NywtMTg4Mzc3
+MTIxMSwxMDYxMTQ3NzA1LDE3MDAyNTcwOTcsLTgxOTEyODU2OF
+19
 -->
