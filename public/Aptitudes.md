@@ -29,6 +29,11 @@ Athletics represents the ability to do, well, athletic things. You can do these 
 Examples include:
 * climbing a rope
 * climbing a rock wall
+* climbing a cliff
+* swimming laps in a pool
+* swimming in a large body of water(against or with a current)
+* sprinting
+* runni
 	PF: Acrobatics, Climb, Swim
 	C/SRPG: Athletics
 
@@ -70,7 +75,7 @@ perform, bluff, diplomancy
 ```
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDgxNTQwNywtOTUyNDk1MDU0LC0xOD
+eyJoaXN0b3J5IjpbMTIzMzg5MDAyMSwtOTUyNDk1MDU0LC0xOD
 k5NDc2MDc3LDIxMzA5ODgzMDksLTIxMzA1NDk4NywtMTg4Mzc3
 MTIxMSwxMDYxMTQ3NzA1LDE3MDAyNTcwOTcsLTgxOTEyODU2OF
 19
