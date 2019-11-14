@@ -53,34 +53,33 @@ Examples of Knowledge you could have are:
 	C/SRPG: None.
 
 # Perception
-```
+
 Perception, Sense Motive
-```
+
 # Creation
-```
-	PF: Craft(*)
+
+PF: Craft(*)
 	C/SRPG: Craft, Enginerring, Medical, Science
-```
+
 # Subterfuge
-```
+
 The Lying parts of dip + sleath, bluff. Intimidate
-```
+
 # Empathy
-```
+
 The non lying parts of diplomancy
 Animal Handling
 Sense Motive
-```
+
 # Charisma
-```
+
 perform, bluff, diplomancy
-```
+
 # Fortitude
-```
-```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA0MjY2MTYsLTk1MjQ5NTA1NCwtMT
-g5OTQ3NjA3NywyMTMwOTg4MzA5LC0yMTMwNTQ5ODcsLTE4ODM3
-NzEyMTEsMTA2MTE0NzcwNSwxNzAwMjU3MDk3LC04MTkxMjg1Nj
-hdfQ==
+eyJoaXN0b3J5IjpbMTQxMDIyNDc1NiwtOTUyNDk1MDU0LC0xOD
+k5NDc2MDc3LDIxMzA5ODgzMDksLTIxMzA1NDk4NywtMTg4Mzc3
+MTIxMSwxMDYxMTQ3NzA1LDE3MDAyNTcwOTcsLTgxOTEyODU2OF
+19
 -->
