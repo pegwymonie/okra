@@ -9,9 +9,9 @@ Those strong of Mind are more often drawn towards logic or emotion rather than b
 * excellent problem-solvers, lightning-quick in their ability to perceive the answer to a difficult problem or the best way out of a sticky situation
 * gifted linguists well-versed in a vast array of tongues
 * a skilled diplomat armed with knowledge of the person they are about to enter negotiations with
-```
+
 ## Body
-*Add Copy*
+The aspect of Body
 ```
 Describe usage of the body ascept. Strength, Dexterity, Consitution.
 Consitution based magics(Think blood magic, Kineticist from PF), althetics, brawling.
@@ -24,7 +24,7 @@ Describe usage of the soul ascept. Wisdom, Charisma, Consitution.
 Divine Magics, metaphysical skills, gut feeling. 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQxNzAwNTEsLTEyNTQ3MTQ0MCwtMT
+eyJoaXN0b3J5IjpbLTEyODExNjAzOTcsLTEyNTQ3MTQ0MCwtMT
 Q1NDkxNzcwLC0xNjA2NjU1ODQ1LDcwMTM3NDI3MSwxOTIzMzk5
 NDk1LC0xMzk0NDA0MzMwLDEwMTIzNzA2NDFdfQ==
 -->
