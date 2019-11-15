@@ -7,8 +7,8 @@ C/SRPG = Cortex / Serentity RPG
 Tools help you do a job and do it well, but not every job requires the same tool. Some tools are physical, such as weapons, while others are more esoteric, like the knowledge needed to craft said weapon, but no less useful. This aptitude covers a broad spectrum of items and knowledge that will help accomplish a variety of tasks.
 
 Examples of tools include:
-* weaponcraft
-* armorcraft
+* weapons
+* armor
 * the Internet
 * lockpicks
 * hammer and nails
@@ -81,7 +81,9 @@ Perception is the ability to sense the world in greater detail than normal. You 
 Perception, Sense Motive
 
 # Creation
-Creation allows you to make things, plain and simple.
+Creation allows you to make things, plain and simple. Some of these things are easy to make while other take hours, days, weeks, or years.
+
+* 
 PF: Craft(*)
 	C/SRPG: Craft, Enginerring, Medical, Science
 
@@ -104,8 +106,8 @@ perform, bluff, diplomancy
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJqUXFPS0JOZmZKdkpWS1ZkIjp7In
 RleHQiOiJ3ZWFwb25jcmFmdCIsInN0YXJ0Ijo0MzQsImVuZCI6
-NDQ1fSwiVnV2bzdNOUJneGF5N3RqMiI6eyJ0ZXh0IjoiRXhhbX
-BsZXMgaW5jbHVkZToiLCJzdGFydCI6OTEyLCJlbmQiOjkyOX19
+NDM5fSwiVnV2bzdNOUJneGF5N3RqMiI6eyJ0ZXh0IjoiRXhhbX
+BsZXMgaW5jbHVkZToiLCJzdGFydCI6OTAzLCJlbmQiOjkyMH19
 LCJjb21tZW50cyI6eyI2aU03UUhEQmpNbDBtOG1QIjp7ImRpc2
 N1c3Npb25JZCI6ImpRcU9LQk5mZkp2SlZLVmQiLCJzdWIiOiJn
 aDoxNjAyNjExIiwidGV4dCI6IlRoaXMgaXMgc3VwcG9zZWQgdG
@@ -120,10 +122,11 @@ NjI2fSwieWdaVzZ3MTc0U3doTEMweCI6eyJkaXNjdXNzaW9uSW
 QiOiJWdXZvN005Qmd4YXk3dGoyIiwic3ViIjoiZ2g6MTYwMjYx
 MSIsInRleHQiOiJNYWtlIHN1cmUgdG8gaW5jbHVkZSBicmF3bG
 luZyBoZXJlLiIsImNyZWF0ZWQiOjE1NzM3NTY1MTkwMDd9fSwi
-aGlzdG9yeSI6Wy02MjE5MTg3NjcsLTk0MTYwNDYxNywtOTQxNj
-A0NjE3LDIwNjcwMzM4NjAsLTEyMjQ3MTIzMTUsMTgyMzA1MDc1
-MCwzMjE0NDg2MTIsMjAzOTk2MjI4OSwtOTc2MDAyNDE1LC0xMz
-I1ODA2MjUyLC05NTI0OTUwNTQsLTE4OTk0NzYwNzcsMjEzMDk4
-ODMwOSwtMjEzMDU0OTg3LC0xODgzNzcxMjExLDEwNjExNDc3MD
-UsMTcwMDI1NzA5NywtODE5MTI4NTY4XX0=
+aGlzdG9yeSI6Wy01MDk5MDUwODIsLTYyMTkxODc2NywtOTQxNj
+A0NjE3LC05NDE2MDQ2MTcsMjA2NzAzMzg2MCwtMTIyNDcxMjMx
+NSwxODIzMDUwNzUwLDMyMTQ0ODYxMiwyMDM5OTYyMjg5LC05Nz
+YwMDI0MTUsLTEzMjU4MDYyNTIsLTk1MjQ5NTA1NCwtMTg5OTQ3
+NjA3NywyMTMwOTg4MzA5LC0yMTMwNTQ5ODcsLTE4ODM3NzEyMT
+EsMTA2MTE0NzcwNSwxNzAwMjU3MDk3LC04MTkxMjg1NjhdfQ==
+
 -->
