@@ -81,8 +81,9 @@ Perception is the ability to sense the world in greater detail than normal. You 
 Perception, Sense Motive
 
 # Creation
-Creation allows you to make things, plain and simple. Some of these things are easy to make while other take hours, days, weeks, or years.
+Creation allows you to make things, plain and simple. Some of these things are easy to make while other take hours, days, weeks, or years. Some items require quite specialized knowledge while others take little.
 
+Examples of Craf
 * 
 PF: Craft(*)
 	C/SRPG: Craft, Enginerring, Medical, Science
@@ -122,11 +123,10 @@ NjI2fSwieWdaVzZ3MTc0U3doTEMweCI6eyJkaXNjdXNzaW9uSW
 QiOiJWdXZvN005Qmd4YXk3dGoyIiwic3ViIjoiZ2g6MTYwMjYx
 MSIsInRleHQiOiJNYWtlIHN1cmUgdG8gaW5jbHVkZSBicmF3bG
 luZyBoZXJlLiIsImNyZWF0ZWQiOjE1NzM3NTY1MTkwMDd9fSwi
-aGlzdG9yeSI6Wy01MDk5MDUwODIsLTYyMTkxODc2NywtOTQxNj
-A0NjE3LC05NDE2MDQ2MTcsMjA2NzAzMzg2MCwtMTIyNDcxMjMx
-NSwxODIzMDUwNzUwLDMyMTQ0ODYxMiwyMDM5OTYyMjg5LC05Nz
-YwMDI0MTUsLTEzMjU4MDYyNTIsLTk1MjQ5NTA1NCwtMTg5OTQ3
-NjA3NywyMTMwOTg4MzA5LC0yMTMwNTQ5ODcsLTE4ODM3NzEyMT
-EsMTA2MTE0NzcwNSwxNzAwMjU3MDk3LC04MTkxMjg1NjhdfQ==
-
+aGlzdG9yeSI6Wy0xMTkxNjE4OSwtNjIxOTE4NzY3LC05NDE2MD
+Q2MTcsLTk0MTYwNDYxNywyMDY3MDMzODYwLC0xMjI0NzEyMzE1
+LDE4MjMwNTA3NTAsMzIxNDQ4NjEyLDIwMzk5NjIyODksLTk3Nj
+AwMjQxNSwtMTMyNTgwNjI1MiwtOTUyNDk1MDU0LC0xODk5NDc2
+MDc3LDIxMzA5ODgzMDksLTIxMzA1NDk4NywtMTg4Mzc3MTIxMS
+wxMDYxMTQ3NzA1LDE3MDAyNTcwOTcsLTgxOTEyODU2OF19
 -->
