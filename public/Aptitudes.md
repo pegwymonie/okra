@@ -19,7 +19,7 @@ Examples of tools include:
 * laser rifle
 * handgun
 * machine gun
-* 
+* repair and maintenance
 	PF: Craft(Weapons*), Knowlegde(Dungenering), Base Attack Bonus
 	C/SPRG: Guns, Heavy Weapons, Melee Weapons, Unarmed Weapons
 
@@ -90,6 +90,8 @@ Examples of crafts that can be used with Creation include:
 * pharmacology
 * engineering 
 * herbal medicine
+* robotics
+* 
 PF: Craft(*)
 	C/SRPG: Craft, Enginerring, Medical, Science
 
@@ -113,7 +115,7 @@ perform, bluff, diplomancy
 eyJkaXNjdXNzaW9ucyI6eyJqUXFPS0JOZmZKdkpWS1ZkIjp7In
 RleHQiOiJ3ZWFwb25jcmFmdCIsInN0YXJ0Ijo0MzQsImVuZCI6
 NDM5fSwiVnV2bzdNOUJneGF5N3RqMiI6eyJ0ZXh0IjoiRXhhbX
-BsZXMgaW5jbHVkZToiLCJzdGFydCI6OTAzLCJlbmQiOjkyMH19
+BsZXMgaW5jbHVkZToiLCJzdGFydCI6OTI1LCJlbmQiOjk0Mn19
 LCJjb21tZW50cyI6eyI2aU03UUhEQmpNbDBtOG1QIjp7ImRpc2
 N1c3Npb25JZCI6ImpRcU9LQk5mZkp2SlZLVmQiLCJzdWIiOiJn
 aDoxNjAyNjExIiwidGV4dCI6IlRoaXMgaXMgc3VwcG9zZWQgdG
@@ -128,11 +130,11 @@ NjI2fSwieWdaVzZ3MTc0U3doTEMweCI6eyJkaXNjdXNzaW9uSW
 QiOiJWdXZvN005Qmd4YXk3dGoyIiwic3ViIjoiZ2g6MTYwMjYx
 MSIsInRleHQiOiJNYWtlIHN1cmUgdG8gaW5jbHVkZSBicmF3bG
 luZyBoZXJlLiIsImNyZWF0ZWQiOjE1NzM3NTY1MTkwMDd9fSwi
-aGlzdG9yeSI6WzExNTM1Nzk5NzUsMTc3NzY1MjM0NSwtNjIxOT
-E4NzY3LC05NDE2MDQ2MTcsLTk0MTYwNDYxNywyMDY3MDMzODYw
-LC0xMjI0NzEyMzE1LDE4MjMwNTA3NTAsMzIxNDQ4NjEyLDIwMz
-k5NjIyODksLTk3NjAwMjQxNSwtMTMyNTgwNjI1MiwtOTUyNDk1
-MDU0LC0xODk5NDc2MDc3LDIxMzA5ODgzMDksLTIxMzA1NDk4Ny
-wtMTg4Mzc3MTIxMSwxMDYxMTQ3NzA1LDE3MDAyNTcwOTcsLTgx
-OTEyODU2OF19
+aGlzdG9yeSI6Wy0yMTA2Nzk1MzUsMTE1MzU3OTk3NSwxNzc3Nj
+UyMzQ1LC02MjE5MTg3NjcsLTk0MTYwNDYxNywtOTQxNjA0NjE3
+LDIwNjcwMzM4NjAsLTEyMjQ3MTIzMTUsMTgyMzA1MDc1MCwzMj
+E0NDg2MTIsMjAzOTk2MjI4OSwtOTc2MDAyNDE1LC0xMzI1ODA2
+MjUyLC05NTI0OTUwNTQsLTE4OTk0NzYwNzcsMjEzMDk4ODMwOS
+wtMjEzMDU0OTg3LC0xODgzNzcxMjExLDEwNjExNDc3MDUsMTcw
+MDI1NzA5N119
 -->
