@@ -88,7 +88,7 @@ Examples of Perception include:
 * being able to identify ingredients in food through taste
 * feeling the slight depression for a button in an otherwise smooth wall
 * sensing that you are being watched
-* 
+* being able to tell that someone is lying
 
 Perception, Sense Motive
 
@@ -148,11 +148,11 @@ S08iOnsiZGlzY3Vzc2lvbklkIjoiMG4xUk1WQlI0RFNvYzRsQy
 IsInN1YiI6ImdoOjE2MDI2MTEiLCJ0ZXh0IjoiQWRkIFxuRGlh
 Z25vc2luZy90cmVhdGluZyBuZXcgdW5rbm93biBkaXNlYXNlcy
 4iLCJjcmVhdGVkIjoxNTczNzgzMzA2ODIyfX0sImhpc3Rvcnki
-OlstODQzODU0NTM4LDE2Njg1MzExNjQsLTE3NDgxMzkwNjYsLT
-IxMDY3OTUzNSwxMTUzNTc5OTc1LDE3Nzc2NTIzNDUsLTYyMTkx
-ODc2NywtOTQxNjA0NjE3LC05NDE2MDQ2MTcsMjA2NzAzMzg2MC
-wtMTIyNDcxMjMxNSwxODIzMDUwNzUwLDMyMTQ0ODYxMiwyMDM5
-OTYyMjg5LC05NzYwMDI0MTUsLTEzMjU4MDYyNTIsLTk1MjQ5NT
-A1NCwtMTg5OTQ3NjA3NywyMTMwOTg4MzA5LC0yMTMwNTQ5ODdd
-fQ==
+OlsyODc4MDcyMzEsMTY2ODUzMTE2NCwtMTc0ODEzOTA2NiwtMj
+EwNjc5NTM1LDExNTM1Nzk5NzUsMTc3NzY1MjM0NSwtNjIxOTE4
+NzY3LC05NDE2MDQ2MTcsLTk0MTYwNDYxNywyMDY3MDMzODYwLC
+0xMjI0NzEyMzE1LDE4MjMwNTA3NTAsMzIxNDQ4NjEyLDIwMzk5
+NjIyODksLTk3NjAwMjQxNSwtMTMyNTgwNjI1MiwtOTUyNDk1MD
+U0LC0xODk5NDc2MDc3LDIxMzA5ODgzMDksLTIxMzA1NDk4N119
+
 -->
