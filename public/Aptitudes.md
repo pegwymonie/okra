@@ -118,7 +118,9 @@ Examples of Subterfuge include:
 The Lying parts of dip + sleath, bluff. Intimidate
 
 # Empathy
-Empathy is your ability to understand the feelings of others and of animals. 
+Empathy is your ability to understand the feelings of others and of animals. Without empathy, it is hard to guess the motives behind others' actions and thus leaves you at a disadvantage when dealing with them.
+
+E
 
 The non lying parts of diplomancy
 Animal Handling
@@ -155,11 +157,11 @@ S08iOnsiZGlzY3Vzc2lvbklkIjoiMG4xUk1WQlI0RFNvYzRsQy
 IsInN1YiI6ImdoOjE2MDI2MTEiLCJ0ZXh0IjoiQWRkIFxuRGlh
 Z25vc2luZy90cmVhdGluZyBuZXcgdW5rbm93biBkaXNlYXNlcy
 4iLCJjcmVhdGVkIjoxNTczNzgzMzA2ODIyfX0sImhpc3Rvcnki
-OlsyMDQ1NTI1NDU4LC0xNzcyNTU0NTcsLTMwNTM4NjE2MiwxNj
-Y4NTMxMTY0LC0xNzQ4MTM5MDY2LC0yMTA2Nzk1MzUsMTE1MzU3
-OTk3NSwxNzc3NjUyMzQ1LC02MjE5MTg3NjcsLTk0MTYwNDYxNy
-wtOTQxNjA0NjE3LDIwNjcwMzM4NjAsLTEyMjQ3MTIzMTUsMTgy
-MzA1MDc1MCwzMjE0NDg2MTIsMjAzOTk2MjI4OSwtOTc2MDAyND
-E1LC0xMzI1ODA2MjUyLC05NTI0OTUwNTQsLTE4OTk0NzYwNzdd
-fQ==
+Ols2Njc5NzYwOTksMjA0NTUyNTQ1OCwtMTc3MjU1NDU3LC0zMD
+UzODYxNjIsMTY2ODUzMTE2NCwtMTc0ODEzOTA2NiwtMjEwNjc5
+NTM1LDExNTM1Nzk5NzUsMTc3NzY1MjM0NSwtNjIxOTE4NzY3LC
+05NDE2MDQ2MTcsLTk0MTYwNDYxNywyMDY3MDMzODYwLC0xMjI0
+NzEyMzE1LDE4MjMwNTA3NTAsMzIxNDQ4NjEyLDIwMzk5NjIyOD
+ksLTk3NjAwMjQxNSwtMTMyNTgwNjI1MiwtOTUyNDk1MDU0XX0=
+
 -->
