@@ -109,7 +109,7 @@ PF: Craft(*)
 	C/SRPG: Craft, Enginerring, Medical, Science
 
 # Subterfuge
-Subterfuge is the art of getting someone to believe something untrue (or something they want to be true). It can be accomplished in a number of ways, such as through conversation or stealth.
+Subterfuge is the art of getting someone to believe something untrue (or something they want to be true). It can be accomplished in a number of ways, such as through conversation or stealth. Subterfuge could even be accomplished through intimidation
 
 The Lying parts of dip + sleath, bluff. Intimidate
 
@@ -150,7 +150,7 @@ S08iOnsiZGlzY3Vzc2lvbklkIjoiMG4xUk1WQlI0RFNvYzRsQy
 IsInN1YiI6ImdoOjE2MDI2MTEiLCJ0ZXh0IjoiQWRkIFxuRGlh
 Z25vc2luZy90cmVhdGluZyBuZXcgdW5rbm93biBkaXNlYXNlcy
 4iLCJjcmVhdGVkIjoxNTczNzgzMzA2ODIyfX0sImhpc3Rvcnki
-OlstMTQ4MDQ5MTE0LC0zMDUzODYxNjIsMTY2ODUzMTE2NCwtMT
+OlstMTMzMjI2MzY0LC0zMDUzODYxNjIsMTY2ODUzMTE2NCwtMT
 c0ODEzOTA2NiwtMjEwNjc5NTM1LDExNTM1Nzk5NzUsMTc3NzY1
 MjM0NSwtNjIxOTE4NzY3LC05NDE2MDQ2MTcsLTk0MTYwNDYxNy
 wyMDY3MDMzODYwLC0xMjI0NzEyMzE1LDE4MjMwNTA3NTAsMzIx
