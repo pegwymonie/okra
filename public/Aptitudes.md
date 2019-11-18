@@ -85,7 +85,9 @@ Examples of Perception include:
 * spotting an elusive animal or person that is trying to hide from you.
 * hearing a conversation through a closed door
 * hearing someone or something following you
-* 
+* being able to identify ingredients in food through taste
+* feeling the slight depression for a button in an otherwise smooth wall
+* sensing that you are being watched
 
 Perception, Sense Motive
 
@@ -145,7 +147,7 @@ S08iOnsiZGlzY3Vzc2lvbklkIjoiMG4xUk1WQlI0RFNvYzRsQy
 IsInN1YiI6ImdoOjE2MDI2MTEiLCJ0ZXh0IjoiQWRkIFxuRGlh
 Z25vc2luZy90cmVhdGluZyBuZXcgdW5rbm93biBkaXNlYXNlcy
 4iLCJjcmVhdGVkIjoxNTczNzgzMzA2ODIyfX0sImhpc3Rvcnki
-OlsxODY3MDQ5MTE3LDE2Njg1MzExNjQsLTE3NDgxMzkwNjYsLT
+OlsxNTQ5NjQ3OTk4LDE2Njg1MzExNjQsLTE3NDgxMzkwNjYsLT
 IxMDY3OTUzNSwxMTUzNTc5OTc1LDE3Nzc2NTIzNDUsLTYyMTkx
 ODc2NywtOTQxNjA0NjE3LC05NDE2MDQ2MTcsMjA2NzAzMzg2MC
 wtMTIyNDcxMjMxNSwxODIzMDUwNzUwLDMyMTQ0ODYxMiwyMDM5
