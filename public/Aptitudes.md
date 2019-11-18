@@ -82,7 +82,10 @@ Perception is the ability to sense the world in greater detail than normal. You 
 
 Examples of Perception include:
 * seeing day old footprints in relatively dry conditions
-* spotting an elusive animal or person that is trying to 
+* spotting an elusive animal or person that is trying to hide from you.
+* hearing a conversation through a closed door
+* hearing someone or something following you
+* 
 
 Perception, Sense Motive
 
@@ -142,7 +145,7 @@ S08iOnsiZGlzY3Vzc2lvbklkIjoiMG4xUk1WQlI0RFNvYzRsQy
 IsInN1YiI6ImdoOjE2MDI2MTEiLCJ0ZXh0IjoiQWRkIFxuRGlh
 Z25vc2luZy90cmVhdGluZyBuZXcgdW5rbm93biBkaXNlYXNlcy
 4iLCJjcmVhdGVkIjoxNTczNzgzMzA2ODIyfX0sImhpc3Rvcnki
-OlstNjQyNjQ2NTk5LDE2Njg1MzExNjQsLTE3NDgxMzkwNjYsLT
+OlsxODY3MDQ5MTE3LDE2Njg1MzExNjQsLTE3NDgxMzkwNjYsLT
 IxMDY3OTUzNSwxMTUzNTc5OTc1LDE3Nzc2NTIzNDUsLTYyMTkx
 ODc2NywtOTQxNjA0NjE3LC05NDE2MDQ2MTcsMjA2NzAzMzg2MC
 wtMTIyNDcxMjMxNSwxODIzMDUwNzUwLDMyMTQ0ODYxMiwyMDM5
