@@ -67,6 +67,7 @@ Wit demonstrates your ability to think and act quickly, to know the right thing 
 
 Uses for Wit include:
 * gaining a moment to think in a tense situation
+* knowing how to best influence an individual after meeting them once
 * figuring out how to fashion a fishing pole from natural materials
 * sneaking into or out of a heavily guarded place
 * diagnosing and treating a new unknown diseases
@@ -78,6 +79,8 @@ Uses for Wit include:
 
 # Perception
 Perception is the ability to sense the world in greater detail than normal. You might see the shine of a scope before the gunman gets off his first shot. You might hear a hushed conversation you weren't meant to. You might be able to tell someone is lying through little hints you might otherwise miss.
+
+Situations in which Percepti
 
 Perception, Sense Motive
 
@@ -137,7 +140,7 @@ S08iOnsiZGlzY3Vzc2lvbklkIjoiMG4xUk1WQlI0RFNvYzRsQy
 IsInN1YiI6ImdoOjE2MDI2MTEiLCJ0ZXh0IjoiQWRkIFxuRGlh
 Z25vc2luZy90cmVhdGluZyBuZXcgdW5rbm93biBkaXNlYXNlcy
 4iLCJjcmVhdGVkIjoxNTczNzgzMzA2ODIyfX0sImhpc3Rvcnki
-OlsxNDA0MjQ0NjQxLDE2Njg1MzExNjQsLTE3NDgxMzkwNjYsLT
+OlsxMzAwNzg5Mjg5LDE2Njg1MzExNjQsLTE3NDgxMzkwNjYsLT
 IxMDY3OTUzNSwxMTUzNTc5OTc1LDE3Nzc2NTIzNDUsLTYyMTkx
 ODc2NywtOTQxNjA0NjE3LC05NDE2MDQ2MTcsMjA2NzAzMzg2MC
 wtMTIyNDcxMjMxNSwxODIzMDUwNzUwLDMyMTQ0ODYxMiwyMDM5
