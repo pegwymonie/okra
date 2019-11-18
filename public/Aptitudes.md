@@ -69,7 +69,7 @@ Uses for Wit include:
 * gaining a moment to think in a tense situation
 * figuring out how to fashion a fishing pole from natural materials
 * sneaking into or out of a heavily guarded place
-* diagnosising/discovering new diseases
+* diagnosing diseases/new diseases
 
 *This one is lite on examples*
 	PF: Int, Diplomancy(Gather Info), survival, stealth
@@ -136,11 +136,11 @@ S08iOnsiZGlzY3Vzc2lvbklkIjoiMG4xUk1WQlI0RFNvYzRsQy
 IsInN1YiI6ImdoOjE2MDI2MTEiLCJ0ZXh0IjoiQWRkIFxuRGlh
 Z25vc2luZy90cmVhdGluZyBuZXcgdW5rbm93biBkaXNlYXNlcy
 4iLCJjcmVhdGVkIjoxNTczNzgzMzA2ODIyfX0sImhpc3Rvcnki
-Ols3ODA4MDQ3MDIsLTE3NDgxMzkwNjYsLTIxMDY3OTUzNSwxMT
-UzNTc5OTc1LDE3Nzc2NTIzNDUsLTYyMTkxODc2NywtOTQxNjA0
-NjE3LC05NDE2MDQ2MTcsMjA2NzAzMzg2MCwtMTIyNDcxMjMxNS
-wxODIzMDUwNzUwLDMyMTQ0ODYxMiwyMDM5OTYyMjg5LC05NzYw
-MDI0MTUsLTEzMjU4MDYyNTIsLTk1MjQ5NTA1NCwtMTg5OTQ3Nj
-A3NywyMTMwOTg4MzA5LC0yMTMwNTQ5ODcsLTE4ODM3NzEyMTFd
-fQ==
+OlsxNjY4NTMxMTY0LC0xNzQ4MTM5MDY2LC0yMTA2Nzk1MzUsMT
+E1MzU3OTk3NSwxNzc3NjUyMzQ1LC02MjE5MTg3NjcsLTk0MTYw
+NDYxNywtOTQxNjA0NjE3LDIwNjcwMzM4NjAsLTEyMjQ3MTIzMT
+UsMTgyMzA1MDc1MCwzMjE0NDg2MTIsMjAzOTk2MjI4OSwtOTc2
+MDAyNDE1LC0xMzI1ODA2MjUyLC05NTI0OTUwNTQsLTE4OTk0Nz
+YwNzcsMjEzMDk4ODMwOSwtMjEzMDU0OTg3LC0xODgzNzcxMjEx
+XX0=
 -->
