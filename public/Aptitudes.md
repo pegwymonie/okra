@@ -123,7 +123,8 @@ Empathy is your ability to understand the feelings of others and of animals. Wit
 Examples of Empathy include:
 * taming a wild horse
 * calming a scared dog
-* talking 
+* understanding the bank robber's motives from context clues
+* guessing what a patient is feeling after getting good/bad news
 
 The non lying parts of diplomancy
 Animal Handling
@@ -160,11 +161,11 @@ S08iOnsiZGlzY3Vzc2lvbklkIjoiMG4xUk1WQlI0RFNvYzRsQy
 IsInN1YiI6ImdoOjE2MDI2MTEiLCJ0ZXh0IjoiQWRkIFxuRGlh
 Z25vc2luZy90cmVhdGluZyBuZXcgdW5rbm93biBkaXNlYXNlcy
 4iLCJjcmVhdGVkIjoxNTczNzgzMzA2ODIyfX0sImhpc3Rvcnki
-OlsyMDEzNzAyNjAsMjA0NTUyNTQ1OCwtMTc3MjU1NDU3LC0zMD
-UzODYxNjIsMTY2ODUzMTE2NCwtMTc0ODEzOTA2NiwtMjEwNjc5
-NTM1LDExNTM1Nzk5NzUsMTc3NzY1MjM0NSwtNjIxOTE4NzY3LC
-05NDE2MDQ2MTcsLTk0MTYwNDYxNywyMDY3MDMzODYwLC0xMjI0
-NzEyMzE1LDE4MjMwNTA3NTAsMzIxNDQ4NjEyLDIwMzk5NjIyOD
-ksLTk3NjAwMjQxNSwtMTMyNTgwNjI1MiwtOTUyNDk1MDU0XX0=
+OlstMTUxODg5NzkwNCwyMDEzNzAyNjAsMjA0NTUyNTQ1OCwtMT
+c3MjU1NDU3LC0zMDUzODYxNjIsMTY2ODUzMTE2NCwtMTc0ODEz
+OTA2NiwtMjEwNjc5NTM1LDExNTM1Nzk5NzUsMTc3NzY1MjM0NS
+wtNjIxOTE4NzY3LC05NDE2MDQ2MTcsLTk0MTYwNDYxNywyMDY3
+MDMzODYwLC0xMjI0NzEyMzE1LDE4MjMwNTA3NTAsMzIxNDQ4Nj
+EyLDIwMzk5NjIyODksLTk3NjAwMjQxNSwtMTMyNTgwNjI1Ml19
 
 -->
