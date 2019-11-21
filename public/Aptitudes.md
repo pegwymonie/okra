@@ -18,6 +18,7 @@ C/SRPG = Cortex / Serentity RPG
 	PF: Knowledge(*), Linguistics
 	C/SRPG: Knowledge, Mechanical Enginerring, Medical Expertise, Scientific Expertise
 ```
+@ps 
 # Wit
 *This one is lite on examples*
 ```
@@ -51,6 +52,7 @@ perform, bluff, diplomancy
 ```
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA1NDk4NywtMTg4Mzc3MTIxMSwxMD
-YxMTQ3NzA1LDE3MDAyNTcwOTcsLTgxOTEyODU2OF19
+eyJoaXN0b3J5IjpbLTEzNTQ2OTMzMDgsLTIxMzA1NDk4NywtMT
+g4Mzc3MTIxMSwxMDYxMTQ3NzA1LDE3MDAyNTcwOTcsLTgxOTEy
+ODU2OF19
 -->
